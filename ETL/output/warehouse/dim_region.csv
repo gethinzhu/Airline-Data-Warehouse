@@ -1,0 +1,2100 @@
+﻿region_key,region_code,region_name,country_code,continent_name
+0,UNKNOWN,Unknown Region,UNKNOWN,Unknown
+1,US-AK,Alaska,US,North America
+2,CA-NU,Nunavut,CA,North America
+3,FR-ARA,Auvergne-Rhône-Alpes,FR,Europe
+4,CA-QC,Quebec,CA,North America
+5,US-CA,California,US,North America
+6,BR-BA,Bahia,BR,South America
+7,BR-PA,Pará,BR,South America
+8,IT-34,Veneto,IT,Europe
+9,CA-AB,Alberta,CA,North America
+10,MX-CHH,Chihuahua,MX,North America
+11,PA-9,Veraguas Province,PA,North America
+12,PK-BA,Balochistan,PK,Asia
+13,AU-NSW,New South Wales,AU,Oceania
+14,US-MO,Missouri,US,North America
+15,ZA-WC,Western Cape,ZA,Africa
+16,CN-42,Hubei Province,CN,Asia
+17,CA-MB,Manitoba,CA,North America
+18,CN-45,Guangxi Autonomous Region,CN,Asia
+19,US-CO,Colorado,US,North America
+20,MG-M,Mahajanga,MG,Africa
+21,CO-CAS,Casanare Department,CO,South America
+22,US-IN,Indiana,US,North America
+23,MR-01,Hodh ech Chargui Region,MR,Africa
+24,MM-04,Mandalay Region,MM,Asia
+25,CG-14,Plateaux Department,CG,Africa
+26,ZM-05,Northern Province,ZM,Africa
+27,WS-AA,A'ana District,WS,Oceania
+28,CA-BC,British Columbia,CA,North America
+29,GQ-BN,Bioko Norte Province,GQ,Africa
+30,PG-NPP,Northern Province,PG,Oceania
+31,PG-MPM,Madang Province,PG,Oceania
+32,AU-VIC,Victoria,AU,Oceania
+33,BS-CK,Crooked Island and Long Cay,BS,North America
+34,AU-SA,South Australia,AU,Oceania
+35,US-KY,Kentucky,US,North America
+36,ID-MA,Maluku,ID,Asia
+37,US-MI,Michigan,US,North America
+38,RU-SA,Sakha (Yakutia) Republic,RU,Europe
+39,US-KS,Kansas,US,North America
+40,PG-NIK,New Ireland Province,PG,Oceania
+41,BR-AL,Alagoas,BR,South America
+42,BO-S,Santa Cruz Department,BO,South America
+43,US-WA,Washington,US,North America
+44,AU-QLD,Queensland,AU,Oceania
+45,CN-33,Zhejiang Province,CN,Asia
+46,US-TN,Tennessee,US,North America
+47,KE-400,Eastern Province,KE,Africa
+48,MM-11,Kachin State,MM,Asia
+49,BF-YAT,Yatenga Province,BF,Africa
+50,US-MN,Minnesota,US,North America
+51,US-FL,Florida,US,North America
+52,PG-MBA,Milne Bay Province,PG,Oceania
+53,CN-32,Jiangsu Province,CN,Asia
+54,GT-PE,Petén Department,GT,North America
+55,TW-X-LK,Lienchiang County,TW,Asia
+56,IN-OR,Odisha,IN,Asia
+57,MR-02,Hodh el Gharbi Region,MR,Africa
+58,ID-PA,Papua,ID,Asia
+59,NO-56,Finnmark,NO,Europe
+60,ID-PB,Papua Barat (West Papua),ID,Asia
+61,CR-G,Guanacaste Province,CR,North America
+62,PT-20,Autonomous Region of Azores,PT,Europe
+63,LK-5,Eastern Province,LK,Asia
+64,US-HI,Hawaii,US,North America
+65,PF-U-A,(unassigned),PF,Oceania
+66,BF-TAP,Tapoa Province,BF,Africa
+67,MZ-I,Inhambane Province,MZ,Africa
+68,DZ-58,In Guezzam Province,DZ,Africa
+69,NP-P1,Koshi Province,NP,Asia
+70,BG-04,Veliko Tarnovo Province,BG,Europe
+71,US-MS,Mississippi,US,North America
+72,RU-KB,Kabardino-Balkar Republic,RU,Europe
+73,ZA-MP,Mpumalanga,ZA,Africa
+74,IR-07,Fars Province,IR,Asia
+75,US-NY,New York,US,North America
+76,IT-42,Liguria,IT,Europe
+77,PG-NSB,Autonomous Region of Bougainville,PG,Oceania
+78,HN-CP,Copán Department,HN,North America
+79,US-GA,Georgia,US,North America
+80,SD-09,North Kurdufan State,SD,Africa
+81,US-AR,Arkansas,US,North America
+82,JP-47,Okinawa Prefecture,JP,Asia
+83,JP-05,Akita Prefecture,JP,Asia
+84,PG-CPM,Central Province,PG,Oceania
+85,DO-12,La Romana Province,DO,North America
+86,CN-13,Hebei Province,CN,Asia
+87,PG-MRL,Manus Province,PG,Oceania
+88,PG-MPL,Morobe Province,PG,Oceania
+89,CA-NT,Northwest Territories,CA,North America
+90,GB-ENG,England,GB,Europe
+91,CN-51,Sichuan Province,CN,Asia
+92,CN-14,Shanxi Province,CN,Asia
+93,IR-22,Hormozgan Province,IR,Asia
+94,BR-MT,Mato Grosso,BR,South America
+95,VN-SW,Southwest Region,VN,Asia
+96,IN-AR,Arunachal Pradesh,IN,Asia
+97,RU-YAN,Yamalo-Nenets Autonomous Okrug,RU,Europe
+98,PG-WPD,Western Province,PG,Oceania
+99,SY-DY,Deir ez-Zor Governorate,SY,Asia
+100,RO-SB,Sibiu County,RO,Europe
+101,US-UT,Utah,US,North America
+102,AU-WA,Western Australia,AU,Oceania
+103,IR-16,Iiam Province,IR,Asia
+104,US-TX,Texas,US,North America
+105,KY-CB,Cayman Brac,KY,North America
+106,MX-TAM,Tamaulipas,MX,North America
+107,BG-22,Sofia City Province,BG,Europe
+108,BR-MA,Maranhão,BR,South America
+109,US-ME,Maine,US,North America
+110,SK-BC,Banská Bystrica Region,SK,Europe
+111,NP-P3,Bagmati Province,NP,Asia
+112,ID-NB,Nusa Tenggara Barat (West Nusa Tenggara),ID,Asia
+113,AU-NT,Northern Territory,AU,Oceania
+114,US-ID,Idaho,US,North America
+115,PG-SAN,Sandaun Province,PG,Oceania
+116,US-IL,Illinois,US,North America
+117,IR-21,Yazd Province,IR,Asia
+118,ZA-NP,Limpopo,ZA,Africa
+119,BW-JW,Jwaneng (town),BW,Africa
+120,SA-08,The Northern Border Region,SA,Asia
+121,EC-U,Sucumbios Province,EC,South America
+122,US-LA,Louisiana,US,North America
+123,BR-SP,São Paulo,BR,South America
+124,US-AZ,Arizona,US,North America
+125,IN-UP,Uttar Pradesh,IN,Asia
+126,GL-AV,Avannaata Municipality,GL,North America
+127,CM-SU,South Region,CM,Africa
+128,CA-NL,Newfoundland and Labrador,CA,North America
+129,MM-03,Magway Region,MM,Asia
+130,MN-043,Khovd Province,MN,Asia
+131,DE-MV,Mecklenburg-Vorpommern,DE,Europe
+132,DZ-45,Naama Province,DZ,Africa
+133,PH-EAS,Eastern Samar Province,PH,Asia
+134,DM-10,Saint Paul Parish,DM,North America
+135,ID-MU,Maluku Utara (North Maluku),ID,Asia
+136,CO-DC,Bogotá Capital District,CO,South America
+137,PY-16,Alto Paraguay Department,PY,South America
+138,CA-ON,Ontario,CA,North America
+139,IL-D,Southern District,IL,Asia
+140,HR-08,Primorje-Gorski Kotar County,HR,Europe
+141,US-NH,New Hampshire,US,North America
+142,AR-R,Río Negro Province,AR,South America
+143,VU-TAE,Tafea,VU,Oceania
+144,RU-BU,Republic of Buryat,RU,Europe
+145,NZ-NTL,Northland Region,NZ,Oceania
+146,US-OK,Oklahoma,US,North America
+147,HR-14,Osijek-Baranja County,HR,Europe
+148,IN-MM,Maharashtra,IN,Asia
+149,VN-NW,Northwest Region,VN,Asia
+150,CD-HK,Haut-Katanga Province,CD,Africa
+151,UA-14,Donetsk Oblast,UA,Europe
+152,CN-62,Gansu Province,CN,Asia
+153,RU-KLU,Kaluga Oblast,RU,Europe
+154,SE-BD,Norrbottena län,SE,Europe
+155,PG-WBK,West New Britain Province,PG,Oceania
+156,NI-MN,Managua Department,NI,North America
+157,MY-12,Sabah,MY,Asia
+158,DE-NW,North Rhine-Westphalia,DE,Europe
+159,PG-SHM,Southern Highlands Province,PG,Oceania
+160,CA-SK,Saskatchewan,CA,North America
+161,ZM-01,Western Province,ZM,Africa
+162,US-IA,Iowa,US,North America
+163,ET-SO,Somali Region,ET,Africa
+164,PK-KP,Khyber Pakhtunkhwa,PK,Asia
+165,CU-05,Villa Clara Province,CU,North America
+166,ES-CT,Catalonia,ES,Europe
+167,KH-2,Battambang province,KH,Asia
+168,PT-17,Vila Real District,PT,Europe
+169,PG-EBR,East New Britain Province,PG,Oceania
+170,OM-ZU,Dhofar Governorate,OM,Asia
+171,PE-LIM,Lima Region,PE,South America
+172,ZA-NW,North-West,ZA,Africa
+173,FR-PDL,Pays-de-la-Loire,FR,Europe
+174,ET-OR,Oromia Region,ET,Africa
+175,CN-50,Chongqing Municipality,CN,Asia
+176,BR-SC,Santa Catarina,BR,South America
+177,IN-RJ,Rajasthan,IN,Asia
+178,US-RI,Rhode Island,US,North America
+179,GY-UT,Upper Takutu-Upper Essequibo,GY,South America
+180,VN-SCC,South Central Coast Region,VN,Asia
+181,BS-CE,Central Eleuthera,BS,North America
+182,UY-AR,Artigas Department,UY,South America
+183,CN-64,Ningxia Autonomous Region,CN,Asia
+184,CN-23,Heilongjiang Province,CN,Asia
+185,MX-BCS,Baja California Sur,MX,North America
+186,PK-JK,Azad Jammu and Kashmir,PK,Asia
+187,CN-53,Yunnan Province,CN,Asia
+188,MA-04,Rabat-Salé-Kénitra Region,MA,Africa
+189,RU-SAK,Sakhalin Oblast,RU,Europe
+190,IR-06,Khuzestan Province,IR,Asia
+191,ZA-NC,Northern Cape,ZA,Africa
+192,US-AL,Alabama,US,North America
+193,PG-CPK,Chimbu Province,PG,Oceania
+194,MM-01,Sagaing Region,MM,Asia
+195,US-VT,Vermont,US,North America
+196,RU-PRI,Primorsky Krai,RU,Europe
+197,US-SC,South Carolina,US,North America
+198,EE-74,Saare County,EE,Europe
+199,KW-AH,Al Ahmadi Governorate,KW,Asia
+200,GR-E,Thessaly,GR,Europe
+201,VN-NC,North Central Region,VN,Asia
+202,BF-COM,Comoe Province,BF,Africa
+203,SN-DK,Dakar Region,SN,Africa
+204,JP-01,Hokkaidō Prefecture,JP,Asia
+205,GA-2,Haut-Ogooué Province,GA,Africa
+206,SO-BR,Bari,SO,Africa
+207,RU-ME,Mari El Republic,RU,Europe
+208,BR-MS,Mato Grosso do Sul,BR,South America
+209,SE-Q,Västra Götalands län,SE,Europe
+210,CI-DN,Denguélé District,CI,Africa
+211,JP-13,Tōkyō Prefecture,JP,Asia
+212,FK-U-A,(unassigned),FK,South America
+213,PE-CUS,Cuzco Region,PE,South America
+214,SB-GU,Guadalcanal Province,SB,Oceania
+215,MG-A,Toamasina,MG,Africa
+216,ID-KB,Kalimantan Barat (West Kalimantan),ID,Asia
+217,BR-GO,Goiás,BR,South America
+218,GR-D,Epirus,GR,Europe
+219,CG-8,Cuvette Department,CG,Africa
+220,ZW-MI,Midlands Province,ZW,Africa
+221,IN-GJ,Gujarat,IN,Asia
+222,CU-15,Artemisa Province,CU,North America
+223,GD-GE,Saint George,GD,North America
+224,CR-A,Alajuela Province,CR,North America
+225,GA-3,Moyen-Ogooué Province,GA,Africa
+226,CA-NB,New Brunswick,CA,North America
+227,US-WV,West Virginia,US,North America
+228,RU-CHU,Chukotka Autonomous Okrug,RU,Europe
+229,IS-6,Northeastern Region,IS,Europe
+230,CN-31,Shanghai Municipality,CN,Asia
+231,CO-CAQ,Caquetá Department,CO,South America
+232,CN-15,Inner Mongolia Autonomous Region,CN,Asia
+233,BO-P,Potosí Department,BO,South America
+234,CL-VS,Valparaíso Region,CL,South America
+235,CN-65,Xinjiang Autonomous Region,CN,Asia
+236,GB-WLS,Wales,GB,Europe
+237,NZ-STL,Southland Region,NZ,Oceania
+238,IN-NL,Nagaland,IN,Asia
+239,CU-14,Guantánamo Province,CU,North America
+240,ES-AN,Andalucía,ES,Europe
+241,PE-LAL,La Libertad Region,PE,South America
+242,VI-SJ,Saint John,VI,North America
+243,US-PA,Pennsylvania,US,North America
+244,BR-PR,Paraná,BR,South America
+245,MY-13,Sarawak,MY,Asia
+246,MH-LAE,Lae,MH,Oceania
+247,JM-01,Kingston Parish,JM,North America
+248,AR-Z,Santa Cruz Province,AR,South America
+249,BS-RI,Ragged Island,BS,North America
+250,PH-MAS,Masbate Province,PH,Asia
+251,RU-KYA,Krasnoyarsk Krai,RU,Europe
+252,RO-AR,Arad County,RO,Europe
+253,SR-CR,Coronie,SR,South America
+254,US-WI,Wisconsin,US,North America
+255,KE-300,Coast Province,KE,Africa
+256,CN-52,Guizhou Province,CN,Asia
+257,PA-GY,Guna Yala Indigenous Region,PA,North America
+258,SB-ML,Malaita Province,SB,Oceania
+259,PR-U-A,(unassigned),PR,North America
+260,BW-ST,Sowa (town),BW,Africa
+261,WF-U-A,(unassigned),WF,Oceania
+262,CO-VAU,Vaupés Department,CO,South America
+263,CU-08,Ciego de Ávila Province,CU,North America
+264,TN-51,Sousse Governorate,TN,Africa
+265,MA-07,Marrakech-Safi Region,MA,Africa
+266,ZA-NL,Kwazulu-Natal,ZA,Africa
+267,GT-AV,Alta Verapez Department,GT,North America
+268,TR-42,Konya Province,TR,Asia
+269,HU-ZA,Zala County,HU,Europe
+270,PG-GPK,Gulf Province,PG,Oceania
+271,US-NJ,New Jersey,US,North America
+272,US-CT,Connecticut,US,North America
+273,DZ-03,Laghouat Province,DZ,Africa
+274,JP-15,Niigata Prefecture,JP,Asia
+275,LK-3,Southern Province,LK,Asia
+276,SB-RB,Rennell and Bellona Province,SB,Oceania
+277,CN-22,Jilin Province,CN,Asia
+278,CO-CHO,Chocó Department,CO,South America
+279,VI-ST,Saint Thomas,VI,North America
+280,TZ-22,Shinyanga Region,TZ,Africa
+281,BR-AC,Acre,BR,South America
+282,RU-MUR,Murmansk Oblast,RU,Europe
+283,DZ-12,Tébessa Province,DZ,Africa
+284,SI-012,Cerklje na Gorenjskem Municipality,SI,Europe
+285,US-MD,Maryland,US,North America
+286,TR-02,Adıyaman Province,TR,Asia
+287,AR-A,Salta Province,AR,South America
+288,IR-18,Bushehr Province,IR,Asia
+289,DE-BY,Bavaria,DE,Europe
+290,SD-01,Northern State,SD,Africa
+291,MN-053,Ömnögovi Province,MN,Asia
+292,CN-21,Liaoning Province,CN,Asia
+293,UA-18,Zhytomyr Oblast,UA,Europe
+294,BR-SE,Sergipe,BR,South America
+295,MH-LIK,Likiep,MH,Oceania
+296,MN-041,Khövsgöl Province,MN,Asia
+297,US-NE,Nebraska,US,North America
+298,US-OH,Ohio,US,North America
+299,ID-PS,Papua Selatan (South Papua),ID,Asia
+300,NC-01,Province des îles Loyauté,NC,Oceania
+301,TO-01,'Eua,TO,Oceania
+302,CO-MET,Meta Department,CO,South America
+303,CO-NSA,Norte de Santander Department,CO,South America
+304,DE-ST,Saxony-Anhalt,DE,Europe
+305,AO-LNO,Lunda Norte Province,AO,Africa
+306,US-NV,Nevada,US,North America
+307,CO-AMA,Amazonas Department,CO,South America
+308,US-NC,North Carolina,US,North America
+309,DE-SH,Schleswig-Holstein,DE,Europe
+310,US-ND,North Dakota,US,North America
+311,CL-AR,Araucanía Region,CL,South America
+312,AF-PKA,Paktika Province,AF,Asia
+313,CG-9,Niari Department,CG,Africa
+314,PK-SD,Sindh,PK,Asia
+315,SA-01,Riyadh Region,SA,Asia
+316,LS-H,Qacha's Nek District,LS,Africa
+317,ZW-MV,Masvingo Province,ZW,Africa
+318,TR-25,Erzurum Province,TR,Asia
+319,LY-GT,Ghat District,LY,Africa
+320,PL-PM,Pomeranian Voivodeship,PL,Europe
+321,CN-35,Fujian Province,CN,Asia
+322,BW-GA,Gabarone (city),BW,Africa
+323,ES-MD,Madrid (community),ES,Europe
+324,ES-CM,Castilla–La Mancha,ES,Europe
+325,MW-MH,Machinga District,MW,Africa
+326,CV-B,Barlavento Islands,CV,Africa
+327,LS-A,Maseru District,LS,Africa
+328,NL-OV,Overijssel,NL,Europe
+329,MY-11,Terengganu,MY,Asia
+330,MO-CAR,Nossa Senhora do Carmo (Taipa),MO,Asia
+331,MG-D,Antsiranana,MG,Africa
+332,OM-BA,Al Batinah Governorate,OM,Asia
+333,CN-63,Qinghai Province,CN,Asia
+334,MH-NMU,Namu,MH,Oceania
+335,CO-ANT,Antioquía Department,CO,South America
+336,LR-RI,Rivercess County,LR,Africa
+337,KI-G,Gilbert Islands,KI,Oceania
+338,ID-KS,Kalimantan Selatan (South Kalimantan),ID,Asia
+339,JP-30,Wakayama Prefecture,JP,Asia
+340,TR-65,Van Province,TR,Asia
+341,ZA-GT,Gauteng,ZA,Africa
+342,LS-K,Thaba-Tseka District,LS,Africa
+343,US-MA,Massachusetts,US,North America
+344,AR-B,Buenos Aires Province,AR,South America
+345,NZ-HKB,Hawke's Bay Region,NZ,Oceania
+346,TH-48,Nakhon Phanom Province,TH,Asia
+347,LA-XA,Xaignabouli Province,LA,Asia
+348,CD-MO,Mongala Province,CD,Africa
+349,HR-13,Zadar County,HR,Europe
+350,PH-CAV,Cavite Province,PH,Asia
+351,EG-JS,South Sinai Governorate,EG,Africa
+352,MZ-P,Cabo Delgado Province,MZ,Africa
+353,GB-SCT,Scotland,GB,Europe
+354,TW-TXG,Taichung City,TW,Asia
+355,PT-11,Lisbon District,PT,Europe
+356,BR-RJ,Rio de Janeiro,BR,South America
+357,US-MT,Montana,US,North America
+358,NZ-WGN,Wellington Region,NZ,Oceania
+359,NC-03,Province Sud,NC,Oceania
+360,VU-SEE,Shefa,VU,Oceania
+361,MP-U-A,(unassigned),MP,Oceania
+362,CH-TI,Ticino,CH,Europe
+363,CD-MA,Maniema Province,CD,Africa
+364,MR-12,Inchiri Region,MR,Africa
+365,BR-RO,Rondônia,BR,South America
+366,US-VA,Virginia,US,North America
+367,JP-17,Ishikawa Prefecture,JP,Asia
+368,AT-2,Carinthia,AT,Europe
+369,TG-M,Maritime Region,TG,Africa
+370,BR-MG,Minas Gerais,BR,South America
+371,IN-MP,Madhya Pradesh,IN,Asia
+372,PG-EHG,Eastern Highlands Province,PG,Oceania
+373,CD-BU,Bas-Uélé Province,CD,Africa
+374,MN-073,Arhangay Province,MN,Asia
+375,IN-HP,Himachal Pradesh,IN,Asia
+376,CO-LAG,La Guajira Department,CO,South America
+377,CR-L,Limón Province,CR,North America
+378,AF-NIM,Nimruz Province,AF,Asia
+379,PG-EPW,Enga Province,PG,Oceania
+380,NC-02,Province Nord,NC,Oceania
+381,AZ-QAB,Qabala District,AZ,Asia
+382,NF-U-A,(unassigned),NF,Oceania
+383,YE-SD,Saada Governorate,YE,Asia
+384,PT-30,Autonomous Region of Madeira,PT,Europe
+385,BF-SOM,Soum Province,BF,Africa
+386,GA-7,Ogooué-Lolo Province,GA,Africa
+387,ID-SU,Sumatera Utara (North Sumatra),ID,Asia
+388,BW-LO,Lobatse (town),BW,Africa
+389,GA-8,Ogooué-Maritime Province,GA,Africa
+390,JO-AM,Amman Governorate,JO,Asia
+391,NO-55,Troms,NO,Europe
+392,MY-06,Pahang,MY,Asia
+393,IN-WB,West Bengal,IN,Asia
+394,ES-PV,Basque Country,ES,Europe
+395,US-NM,New Mexico,US,North America
+396,NG-ON,Ondo State,NG,Africa
+397,ET-TI,Tigray Region,ET,Africa
+398,PK-PB,Punjab,PK,Asia
+399,UZ-JI,Jizzakh Region,UZ,Asia
+400,BO-L,La Paz Department,BO,South America
+401,MX-ROO,Quintana Roo,MX,North America
+402,TZ-17,Mtwara Region,TZ,Africa
+403,SB-WE,Western Province,SB,Oceania
+404,NO-46,Vestland,NO,Europe
+405,CO-VAC,Valle del Cauca Department,CO,South America
+406,ID-PD,Papua Barat Daya (Southwest Papua),ID,Asia
+407,BS-LI,Long Island,BS,North America
+408,BZ-CY,Cayo District,BZ,North America
+409,MX-GUA,Guanajuato,MX,North America
+410,UG-E,Eastern Region,UG,Africa
+411,ES-CL,Castilla y León,ES,Europe
+412,SN-TC,Tambacounda Region,SN,Africa
+413,MY-08,Perak,MY,Asia
+414,LA-LP,Louangphabang Province,LA,Asia
+415,TR-09,Aydin Province,TR,Asia
+416,TR-67,Zonguldak Province,TR,Asia
+417,MG-U,Toliara,MG,Africa
+418,VE-I,Falcón State,VE,South America
+419,DZ-07,Biskra Province,DZ,Africa
+420,RW-05,Southern Province,RW,Africa
+421,IT-78,Calabria,IT,Europe
+422,IT-82,Sicily,IT,Europe
+423,CO-SUC,Sucre Department,CO,South America
+424,MV-28,Gaafu Dhaalu Atoll,MV,Asia
+425,KR-42,Gangwon Teukbyeoljachi-do (Gangwon Special Self-Governing Province),KR,Asia
+426,IS-3,Western Region,IS,Europe
+427,SD-02,North Darfur State,SD,Africa
+428,CD-TA,Tanganyika Province,CD,Africa
+429,GR-I,Attica,GR,Europe
+430,VE-C,Apure State,VE,South America
+431,SE-AB,Stockholms län,SE,Europe
+432,AR-N,Misiones Province,AR,South America
+433,SE-F,Jönköpings län,SE,Europe
+434,CD-LU,Lualaba Province,CD,Africa
+435,FO-U-A,(unassigned),FO,Europe
+436,VN-SE,Southeast Region,VN,Asia
+437,BS-BI,Bimini,BS,North America
+438,CG-12,Pool Department,CG,Africa
+439,US-OR,Oregon,US,North America
+440,PE-JUN,Junín Region,PE,South America
+441,CL-CO,Coquimbo Region,CL,South America
+442,AT-4,Upper Austria,AT,Europe
+443,LT-KU,Kaunas County,LT,Europe
+444,NO-32,Akershus,NO,Europe
+445,RU-KEM,Kemerovo Oblast,RU,Europe
+446,LR-LO,Lofa County,LR,Africa
+447,HN-OL,Olancho Department,HN,North America
+448,FM-TRK,Chuuk State,FM,Oceania
+449,OM-ZA,Al Dhahirah Governorate,OM,Asia
+450,DE-RP,Rhineland-Palatinate,DE,Europe
+451,TH-60,Nakhon Sawan Province,TH,Asia
+452,ID-JI,Jawa Timur (East Java),ID,Asia
+453,GY-CU,Cuyuni-Mazaruni,GY,South America
+454,MH-MEJ,Mejit,MH,Oceania
+455,FI-10,Lapland Region,FI,Europe
+456,SE-X,Gävleborge län,SE,Europe
+457,BS-BY,Berry Islands,BS,North America
+458,ET-SW,South West Ethiopia Peoples' Region,ET,Africa
+459,UM-71,Midway Atoll,UM,Oceania
+460,ER-SK,Northern Red Sea Region,ER,Africa
+461,MZ-S,Sofala Province,MZ,Africa
+462,LY-WD,Wadi Al Hayaa District,LY,Africa
+463,EC-T,Tungurahua Province,EC,South America
+464,ID-ST,Sulawesi Tengah (Central Sulawesi),ID,Asia
+465,FR-CVL,Centre-Val de Loire,FR,Europe
+466,EH-U-A,(unassigned),EH,Africa
+467,NO-50,Trøndelag,NO,Europe
+468,BF-MOU,Mouhoun Province,BF,Africa
+469,MN-1,Ulaanbaatar (provincial municipality),MN,Asia
+470,DK-81,North Jutland,DK,Europe
+471,IN-TG,Telangana,IN,Asia
+472,IN-PB,Punjab,IN,Asia
+473,BD-6,Sylhet Division,BD,Asia
+474,EC-S,Morona-Santiago Province,EC,South America
+475,EG-ASN,Aswan Governorate,EG,Africa
+476,BY-BR,Brest Region,BY,Europe
+477,PA-8,Panamá Province,PA,North America
+478,MZ-L,Maputo Province,MZ,Africa
+479,RU-BA,Republic of Bashkortostan,RU,Europe
+480,TM-L,Lebap Region,TM,Asia
+481,FR-NOR,Normandy,FR,Europe
+482,AO-BIE,Bié Province,AO,Africa
+483,EG-MT,Matruh Governorate,EG,Africa
+484,PH-SCO,South Cotabato Province,PH,Asia
+485,FR-NAQ,Nouvelle-Aquitaine,FR,Europe
+486,VE-F,Bolívar State,VE,South America
+487,BF-PON,Poni Province,BF,Africa
+488,BR-RS,Rio Grande do Sul,BR,South America
+489,PG-ESW,East Sepik Province,PG,Oceania
+490,MF-U-A,(unassigned),MF,North America
+491,CU-12,Granma Province,CU,North America
+492,KR-46,Jeollanam-do (South Jeolla Province),KR,Asia
+493,US-SD,South Dakota,US,North America
+494,IN-AS,Assam,IN,Asia
+495,BF-BLG,Boulgou Province,BF,Africa
+496,HR-01,Zagreb County,HR,Europe
+497,FR-OCC,Occitanie,FR,Europe
+498,SE-Z,Jämtlande län,SE,Europe
+499,VU-MAP,Malampa,VU,Oceania
+500,TV-FUN,Funafuti,TV,Oceania
+501,SB-MK,Makira-Ulawa Province,SB,Oceania
+502,SA-10,Najran Region,SA,Asia
+503,CF-HS,Mambéré-Kadéï,CF,Africa
+504,UA-12,Dnipropetrovsk (Sicheslav) Oblast,UA,Europe
+505,NR-14,Yaren,NR,Oceania
+506,JP-18,Fukui Prefecture,JP,Asia
+507,SE-I,Gotlands län,SE,Europe
+508,JP-22,Shizuoka Prefecture,JP,Asia
+509,VU-PAM,Penama,VU,Oceania
+510,CL-TA,Tarapacá Region,CL,South America
+511,NL-FR,Friesland,NL,Europe
+512,MX-SON,Sonora,MX,North America
+513,GB-NIR,Northern Ireland,GB,Europe
+514,PH-MDN,Maguindanao del Norte Province,PH,Asia
+515,AG-03,Saint George Parish,AG,North America
+516,CA-YT,Yukon,CA,North America
+517,NI-AN,North Caribbean Coast Autonomous Region,NI,North America
+518,GR-L,South Aegean,GR,Europe
+519,CN-54,Tibet Autonomous Region,CN,Asia
+520,RU-KHM,Khanty-Mansi Autonomous Okrug,RU,Europe
+521,AR-S,Santa Fe Province,AR,South America
+522,GL-QK,Qeqertalik Municipality,GL,North America
+523,NO-15,Møre og Romsdal,NO,Europe
+524,DJ-DJ,Djibouti Region,DJ,Africa
+525,BY-MA,Mogilev Region,BY,Europe
+526,BE-WHT,Hainaut Province,BE,Europe
+527,LS-E,Mafeteng District,LS,Africa
+528,MN-051,Sükhbaatar Province,MN,Asia
+529,ID-AC,Aceh,ID,Asia
+530,CM-EN,Far North Region,CM,Africa
+531,TR-12,Bingöl Province,TR,Asia
+532,KR-47,Gyeongsangbuk-do (North Gyeongsang Province),KR,Asia
+533,MA-08,Drâa-Tafilalet Region,MA,Africa
+534,IQ-AR,Arbil Governorate,IQ,Asia
+535,CD-BC,Kongo-Central Province,CD,Africa
+536,US-WY,Wyoming,US,North America
+537,CO-VID,Vichada Department,CO,South America
+538,BF-KMP,Kompienga Province,BF,Africa
+539,KE-700,Rift Valley Province,KE,Africa
+540,RU-ROS,Rostov Oblast,RU,Europe
+541,CI-ZZ,Zanzan District,CI,Africa
+542,SL-S,Southern Province,SL,Africa
+543,HU-HB,Hajdu-Bihar County,HU,Europe
+544,IN-HR,Haryana,IN,Asia
+545,AT-9,Vienna,AT,Europe
+546,IR-08,Kerman Province,IR,Asia
+547,AR-U,Chubut Province,AR,South America
+548,BD-5,Rajshahi Division,BD,Asia
+549,BO-H,Chuquisaca Department,BO,South America
+550,KH-11,Mondulkiri province,KH,Asia
+551,TH-86,Chumphon Province,TH,Asia
+552,NL-FL,Flevoland,NL,Europe
+553,MV-08,Kolhumadulu Atoll,MV,Asia
+554,PH-MSR,Misamis Oriental Province,PH,Asia
+555,ET-AM,Amhara Region,ET,Africa
+556,NZ-MBH,Marlborough Region,NZ,Oceania
+557,IR-03,East Azerbaijan Province,IR,Asia
+558,CU-07,Sancti Spíritus Province,CU,North America
+559,CL-AN,Antofagasta Region,CL,South America
+560,GY-EB,East Berbice-Corentyne,GY,South America
+561,ID-JK,Jakarta Raya,ID,Asia
+562,JP-07,Fukushima Prefecture,JP,Asia
+563,DK-83,South Denmark,DK,Europe
+564,IS-4,Westfjords,IS,Europe
+565,GA-9,Woleu-Ntem Province,GA,Africa
+566,LC-02,Castries,LC,North America
+567,NO-18,Nordland,NO,Europe
+568,CN-44,Guangdong Province,CN,Asia
+569,FI-05,Kainuu Region,FI,Europe
+570,MZ-Q,Zambezia Province,MZ,Africa
+571,BS-NS,North Andros,BS,North America
+572,VE-B,Anzoátegui State,VE,South America
+573,DZ-02,Chlef Province,DZ,Africa
+574,TZ-04,Iringa Region,TZ,Africa
+575,VE-M,Miranda State,VE,South America
+576,CA-NS,Nova Scotia,CA,North America
+577,SA-03,Al Madinah Region,SA,Asia
+578,RO-DJ,Dolj County,RO,Europe
+579,IR-11,Sistan and Baluchestan Province,IR,Asia
+580,IR-10,Isfahan Province,IR,Asia
+581,ID-SG,Sulawesi Tenggara (Southeast Sulawesi),ID,Asia
+582,CI-SV,Savanes District,CI,Africa
+583,AO-CNN,Cunene Province,AO,Africa
+584,MT-25,Luqa,MT,Europe
+585,MG-F,Fianarantsoa,MG,Africa
+586,PT-02,Beja District,PT,Europe
+587,AR-Q,Neuquén Province,AR,South America
+588,TD-SA,Salamat,TD,Africa
+589,LA-LM,Louang Namtha Province,LA,Asia
+590,SR-PM,Paramaribo,SR,South America
+591,RU-KRS,Kursk Oblast,RU,Europe
+592,MK-008,Skopje Statistical Region,MK,Europe
+593,SY-HA,Al-Hasakah Governorate,SY,Asia
+594,CD-KL,Kwilu Province,CD,Africa
+595,FJ-R,Rotuma (dependency),FJ,Oceania
+596,CD-EQ,Équateur Province,CD,Africa
+597,UA-26,Ivano-Frankivsk Oblast,UA,Europe
+598,NZ-OTA,Otago Region,NZ,Oceania
+599,BS-EX,Exuma,BS,North America
+600,DE-NI,Lower Saxony,DE,Europe
+601,FI-08,Central Finland Region,FI,Europe
+602,SA-14,Asir Region,SA,Asia
+603,SL-N,Northern Province,SL,Africa
+604,AU-TAS,Tasmania,AU,Oceania
+605,BR-CE,Ceará,BR,South America
+606,ID-PP,Papua Pegunungan (Highland Papua),ID,Asia
+607,LY-SB,Sabha District,LY,Africa
+608,SE-S,Värmlanda län,SE,Europe
+609,DZ-30,Ouargla Province,DZ,Africa
+610,ET-SN,"Southern Nations, Nationalities, and Peoples' Region",ET,Africa
+611,HN-YO,Yoro Department,HN,North America
+612,ID-NT,Nusa Tenggara Timur (East Nusa Tenggara),ID,Asia
+613,JM-02,Saint Andrew Parish,JM,North America
+614,LA-BK,Bokeo Province,LA,Asia
+615,SA-12,Al Jawf Region,SA,Asia
+616,BA-BIH,Federation of Bosnia and Herzegovina,BA,Europe
+617,BD-1,Barisal Division,BD,Asia
+618,CD-KS,Kasaï Province,CD,Africa
+619,IN-TR,Tripura,IN,Asia
+620,UZ-SU,Surxondaryo Region,UZ,Asia
+621,NZ-BOP,Bay of Plenty Region,NZ,Oceania
+622,BI-GI,Gitega Province,BI,Africa
+623,BO-B,El Beni Department,BO,South America
+624,IR-05,Kermanshah Province,IR,Asia
+625,TW-PEN,Penghu County,TW,Asia
+626,SK-PV,Prešov Region,SK,Europe
+627,LS-C,Leribe District,LS,Africa
+628,RU-CE,Chechen Republic,RU,Europe
+629,SD-11,South Darfur State,SD,Africa
+630,VE-W,Federal Dependencies,VE,South America
+631,QA-RA,Al Rayyan Municipality,QA,Asia
+632,SA-04,Ash Sharqiyah Region,SA,Asia
+633,RE-SR,Saint-Pierre Arrondissement,RE,Africa
+634,MR-09,Tagant Region,MR,Africa
+635,IL-Z,Northern District,IL,Asia
+636,NG-BE,Benue State,NG,Africa
+637,TZ-13,Mara Region,TZ,Africa
+638,BW-GH,Ghanzi District,BW,Africa
+639,VE-O,Nueva Esparta State,VE,South America
+640,CL-LL,Los Lagos Region,CL,South America
+641,TW-TTT,Taitung County,TW,Asia
+642,FR-HDF,Hauts-de-France,FR,Europe
+643,FR-IDF,Île-de-France,FR,Europe
+644,UZ-FA,Fergana Region,UZ,Asia
+645,IN-TN,Tamil Nadu,IN,Asia
+646,PL-MZ,Masovian Voivodeship,PL,Europe
+647,PH-NEC,Negros Occidental Province,PH,Asia
+648,IR-01,Gilan Province,IR,Asia
+649,LA-VT,Vientiane Prefecture,LA,Asia
+650,RW-04,Western Province,RW,Africa
+651,PH-LUN,La Union Province,PH,Asia
+652,TW-PIF,Pingtung County,TW,Asia
+653,EC-W,Galapagos Province,EC,South America
+654,PE-AYA,Ayacucho Region,PE,South America
+655,VE-G,Carabobo State,VE,South America
+656,AF-FYB,Faryab Province,AF,Asia
+657,IQ-NI,Ninawa Governorate,IQ,Asia
+658,TH-96,Narathiwat Province,TH,Asia
+659,MX-OAX,Oaxaca,MX,North America
+660,RU-ARK,Arkhangelsk Oblast,RU,Europe
+661,VE-P,Portuguesa State,VE,South America
+662,IR-02,Mazandaran Province,IR,Asia
+663,LA-CH,Champasak Province,LA,Asia
+664,JP-42,Nagasaki Prefecture,JP,Asia
+665,SS-BW,Western Bahr el Ghazal State,SS,Africa
+666,TR-52,Ordu Province,TR,Asia
+667,GT-QC,Quiché Department,GT,North America
+668,MY-10,Selangor,MY,Asia
+669,PA-5,Darién Province,PA,North America
+670,BO-T,Tarija Department,BO,South America
+671,CL-MA,Magallanes Region,CL,South America
+672,KZ-ATY,Atyrau Region,KZ,Asia
+673,SR-SI,Sipaliwini,SR,South America
+674,LK-4,Northern Province,LK,Asia
+675,GL-SE,Sermersooq Municipality,GL,North America
+676,CO-MAG,Magdalena Department,CO,South America
+677,PH-ZMB,Zambales Province,PH,Asia
+678,ZM-08,Copperbelt Province,ZM,Africa
+679,SD-24,Blue Nile State,SD,Africa
+680,OM-WU,Al Wusta Governorate,OM,Asia
+681,CA-PE,Prince Edward Island,CA,North America
+682,CO-TOL,Tolima Department,CO,South America
+683,NP-P2,Madhesh Province,NP,Asia
+684,UA-43,Crimea (Autonomous Republic),UA,Europe
+685,FJ-W,Western Division,FJ,Oceania
+686,MW-MZ,Mzimba District,MW,Africa
+687,IN-MN,Manipur,IN,Asia
+688,FJ-N,Northern Division,FJ,Oceania
+689,SH-AC,Ascension,SH,Africa
+690,SD-06,Al Qadarif State,SD,Africa
+691,RU-TYU,Tyumen Oblast,RU,Europe
+692,AO-MAL,Malanje Province,AO,Africa
+693,TC-SL,Salt Cay,TC,North America
+694,RU-KO,Komi Republic,RU,Europe
+695,CO-CAU,Cauca Department,CO,South America
+696,FM-YAP,Yap State,FM,Oceania
+697,KN-U-A,(unassigned),KN,North America
+698,MX-VER,Veracruz,MX,North America
+699,CN-36,Jiangxi Province,CN,Asia
+700,BR-AM,Amazonas,BR,South America
+701,SD-DE,East Darfur State,SD,Africa
+702,MN-035,Orkhon Province,MN,Asia
+703,PH-AKL,Aklan Province,PH,Asia
+704,EC-N,Napo Province,EC,South America
+705,BZ-OW,Orange Walk District,BZ,North America
+706,AR-W,Corrientes Province,AR,South America
+707,ID-JA,Jambi,ID,Asia
+708,MN-065,Govi-Altai Province,MN,Asia
+709,YE-HD,Hadhramaut Governorate,YE,Asia
+710,IT-23,Valle d'Aosta,IT,Europe
+711,MN-057,Zavkhan Province,MN,Asia
+712,NZ-TKI,Taranaki Region,NZ,Oceania
+713,AF-HEL,Helmand Province,AF,Asia
+714,IE-CO,County Cork,IE,Europe
+715,IT-52,Tuscany,IT,Europe
+716,NZ-MWT,Manawatu-Wanganui Region,NZ,Oceania
+717,BG-28,Yambol Province,BG,Europe
+718,ST-P,Autonomous Region of Principe,ST,Africa
+719,TD-HL,Hadjer-Lamis,TD,Africa
+720,KE-500,North-Eastern Province,KE,Africa
+721,DZ-19,Sétif Province,DZ,Africa
+722,AR-X,Córdoba Province,AR,South America
+723,CO-CES,César Department,CO,South America
+724,TL-CO,Cova Lima,TL,Asia
+725,MM-12,Kayah State,MM,Asia
+726,DO-01,Distrito Nacional,DO,North America
+727,DK-82,Central Jutland,DK,Europe
+728,SO-JH,Lower Juba,SO,Africa
+729,AO-ZAI,Zaire Province,AO,Africa
+730,PH-BUK,Bukidnon Province,PH,Asia
+731,CN-43,Hunan Province,CN,Asia
+732,FR-GES,Grand Est,FR,Europe
+733,UY-RV,Rivera Department,UY,South America
+734,VN-CH,Central Highlands Region,VN,Asia
+735,RO-IS,Iaşi County,RO,Europe
+736,CI-BS,Bas-Sassandra District,CI,Africa
+737,PE-LOR,Loreto Region,PE,South America
+738,SD-13,South Kurdufan State,SD,Africa
+739,MM-17,Shan State,MM,Asia
+740,CK-U-A,(unassigned),CK,Oceania
+741,JP-34,Hiroshima Prefecture,JP,Asia
+742,TW-TPE,Taipei City,TW,Asia
+743,LK-2,Central Province,LK,Asia
+744,IS-1,Capital Region,IS,Europe
+745,PH-TAW,Tawi-Tawi Province,PH,Asia
+746,BF-NAO,Nahouri Province,BF,Africa
+747,PY-1,Concepción Department,PY,South America
+748,RU-IRK,Irkutsk Oblast,RU,Europe
+749,DE-TH,Thuringia,DE,Europe
+750,PH-SUN,Surigao del Norte Province,PH,Asia
+751,GN-B,Boké Region,GN,Africa
+752,AO-CCU,Cuando Cubango Province,AO,Africa
+753,ES-VC,Valencia (community),ES,Europe
+754,JP-02,Aomori Prefecture,JP,Asia
+755,AZ-BA,Baku (city),AZ,Asia
+756,IT-75,Apulia,IT,Europe
+757,KZ-ULY,Ulytau Region,KZ,Asia
+758,SZ-LU,Lubombo Region,SZ,Africa
+759,NP-P7,Sudurpashchim Province,NP,Asia
+760,AO-LSU,Lunda Sul Province,AO,Africa
+761,CN-34,Anhui Province,CN,Asia
+762,DE-BR,Brandenburg,DE,Europe
+763,DE-SN,Saxony,DE,Europe
+764,TR-49,Muş Province,TR,Asia
+765,TZ-05,Kagera Region,TZ,Africa
+766,CR-P,Puntarenas Province,CR,North America
+767,JP-46,Kagoshima Prefecture,JP,Asia
+768,QA-DA,Ad-Dawhah Municipality,QA,Asia
+769,ID-KI,Kalimantan Timur (East Kalimantan),ID,Asia
+770,PH-SUR,Surigao del Sur Province,PH,Asia
+771,FJ-E,Eastern Division,FJ,Oceania
+772,AO-MOX,Moxico Province,AO,Africa
+773,GP-U-A,(unassigned),GP,North America
+774,MX-YUC,Yucatán,MX,North America
+775,CO-HUI,Huila Department,CO,South America
+776,RU-MOS,Moscow Oblast,RU,Europe
+777,PH-00,National Capital Region (Metropolitan Manila),PH,Asia
+778,GD-PA,Saint Patrick,GD,North America
+779,ES-CN,Canary Islands,ES,Europe
+780,GR-G,Western Greece,GR,Europe
+781,IR-15,Lorestan Province,IR,Asia
+782,IT-21,Piedmont,IT,Europe
+783,CL-NB,Ñuble Region,CL,South America
+784,BS-CI,Cat Island,BS,North America
+785,CF-AC,Ouham,CF,Africa
+786,IE-MO,County Mayo,IE,Europe
+787,DZ-16,Algiers Province,DZ,Africa
+788,MM-05,Tanintharyi Region,MM,Asia
+789,MX-CHP,Chiapas,MX,North America
+790,IQ-SW,As-Sulaymaniyyah Governorate,IQ,Asia
+791,CD-MN,Mai-Ndombe Province,CD,Africa
+792,NG-PL,Plateau State,NG,Africa
+793,MX-COA,Coahuila,MX,North America
+794,TR-10,Balıkesir Province,TR,Asia
+795,MX-JAL,Jalisco,MX,North America
+796,PE-HUC,Huánuco Region,PE,South America
+797,EG-WAD,New Valley Governorate,EG,Africa
+798,CL-AT,Atacama Region,CL,South America
+799,DZ-11,Tamanrasset Province,DZ,Africa
+800,TH-63,Tak Province,TH,Asia
+801,PE-ICA,Ica Region,PE,South America
+802,MH-MAL,Maloelap,MH,Oceania
+803,RU-KOS,Kostroma Oblast,RU,Europe
+804,LY-KF,Al Kufrah District,LY,Africa
+805,FI-14,North Ostrobothnia Region,FI,Europe
+806,ID-SN,Sulawesi Selatan (South Sulawesi),ID,Asia
+807,ID-PT,Papua Tengah (Central Papua),ID,Asia
+808,IN-CT,Chhattisgarh,IN,Asia
+809,SO-GA,Galguduud,SO,Africa
+810,VE-V,Zulia State,VE,South America
+811,IE-G,County Galway,IE,Europe
+812,KR-28,Incheon-gwangyeoksi (Incheon Metropolitan City),KR,Asia
+813,TD-MC,Moyen-Chari,TD,Africa
+814,ES-GA,Galicia,ES,Europe
+815,CM-OU,West Region,CM,Africa
+816,BM-U-A,(unassigned),BM,North America
+817,YE-SH,Shabwah Governorate,YE,Asia
+818,GF-SL,Saint-Laurent-du-Maroni,GF,South America
+819,CO-BOL,Bolívar Department,CO,South America
+820,MZ-G,Gaza Province,MZ,Africa
+821,TL-VI,Viqueque,TL,Asia
+822,RU-KAM,Kamchatka Krai,RU,Europe
+823,PH-AUR,Aurora Province,PH,Asia
+824,DZ-50,El Menia Province,DZ,Africa
+825,MN-055,Övörkhangai Province,MN,Asia
+826,ES-IB,Islas Baleares,ES,Europe
+827,AS-WT,Western District,AS,Oceania
+828,SE-AC,Västerbottens län,SE,Europe
+829,PH-MDC,Occidental Mindoro Province,PH,Asia
+830,RU-AL,Altai Republic,RU,Europe
+831,CO-PUT,Putumayo Department,CO,South America
+832,MH-ALL,Ailinglapalap,MH,Oceania
+833,CH-GE,Geneva,CH,Europe
+834,TD-MO,Mayo-Kebbi Ouest,TD,Africa
+835,RO-TL,Tulcea County,RO,Europe
+836,TH-16,Lopburi Province,TH,Asia
+837,CZ-MO,Moravian-Silesian Region,CZ,Europe
+838,BF-NAM,Namentenga Province,BF,Africa
+839,SB-IS,Isabel Province,SB,Oceania
+840,PK-GB,Gilgit-Baltistan,PK,Asia
+841,PL-LU,Lublin Voivodeship,PL,Europe
+842,MR-06,Trarza Region,MR,Africa
+843,LK-1,Western Province,LK,Asia
+844,BS-FP,City of Freeport,BS,North America
+845,BR-TO,Tocantins,BR,South America
+846,LY-BU,Al Butnan District,LY,Africa
+847,FR-BFC,Bourgogne-Franche-Comté,FR,Europe
+848,KZ-AKM,Akmola Region,KZ,Asia
+849,RU-KL,Republic of Kalmykia,RU,Europe
+850,NO-39,Vestfold,NO,Europe
+851,MH-UJA,Ujae,MH,Oceania
+852,IN-JH,Jharkhand,IN,Asia
+853,PE-AMA,Amazonas Region,PE,South America
+854,GA-4,Ngounié Province,GA,Africa
+855,RU-KHA,Khabarovsk Krai,RU,Europe
+856,NZ-WKO,Waikato Region,NZ,Oceania
+857,PH-LEY,Leyte Province,PH,Asia
+858,SE-H,Kalmar län,SE,Europe
+859,BO-N,Pando Department,BO,South America
+860,PA-6,Herrera Province,PA,North America
+861,AT-5,Salzburg,AT,Europe
+862,UG-N,Northern Region,UG,Africa
+863,FR-COR,Corsica,FR,Europe
+864,CI-CM,Comoé District,CI,Africa
+865,IN-ML,Meghalaya,IN,Asia
+866,CN-61,Shaanxi Province,CN,Asia
+867,HK-HK,Hong Kong Island,HK,Asia
+868,HN-CL,Colón Department,HN,North America
+869,KR-44,Chungcheongnam-do (South Chungcheong Province),KR,Asia
+870,MA-01,Tanger-Tétouan-Al Hoceïma Region,MA,Africa
+871,MR-11,Tiris Zemmour Region,MR,Africa
+872,IR-14,Chaharmahal and Bakhtiari Province,IR,Asia
+873,NZ-TAS,Tasman Region,NZ,Oceania
+874,PA-4,Chiriquí Province,PA,North America
+875,AF-GHO,Ghōr Province,AF,Asia
+876,IN-AP,Andhra Pradesh,IN,Asia
+877,HN-LE,Lempira Department,HN,North America
+878,SE-W,Dalarnas län,SE,Europe
+879,LK-6,North Western Province,LK,Asia
+880,TR-03,Afyonkarahisar Province,TR,Asia
+881,GA-5,Nyanga Province,GA,Africa
+882,VG-U-A,(unassigned),VG,North America
+883,HK-NT,New Territories,HK,Asia
+884,MX-MIC,Michoacán,MX,North America
+885,MX-COL,Colima,MX,North America
+886,DZ-18,Jijel Province,DZ,Africa
+887,CM-LT,Littoral Region,CM,Africa
+888,LY-DR,Darnah District,LY,Africa
+889,IT-45,Emilia-Romagna,IT,Europe
+890,JO-MA,Al Mafraq Governorate,JO,Asia
+891,BJ-AK,Atakora Department,BJ,Africa
+892,MA-02,L'Oriental Region,MA,Africa
+893,LT-KL,Klaipėda County,LT,Europe
+894,OM-DA,Ad Dakhiliyah Governorate,OM,Asia
+895,JO-AQ,Al 'Aqaba Governorate,JO,Asia
+896,BR-RR,Roraima,BR,South America
+897,CU-99,Isla de la Juventud (special municipality),CU,North America
+898,GT-QZ,Quetzaltenango Department,GT,North America
+899,GY-BA,Barima-Waini,GY,South America
+900,CD-KN,Kinshasa Province,CD,Africa
+901,GY-PT,Potaro-Siparuni,GY,South America
+902,GL-KU,Kujalleq Municipality,GL,North America
+903,FI-09,Kymenlaakso Region,FI,Europe
+904,RU-SPE,Saint Petersburg (city),RU,Europe
+905,BW-KG,Kgalagadi District,BW,Africa
+906,SK-ZI,Žilina Region,SK,Europe
+907,HT-SE,Sud-Est Department,HT,North America
+908,SE-M,Skåne län,SE,Europe
+909,PL-WP,Greater Poland Voivodeship,PL,Europe
+910,AF-GHA,Ghazni Province,AF,Asia
+911,CO-BOY,Boyacá Department,CO,South America
+912,BY-MI,Minsk Region,BY,Europe
+913,FI-15,Northern Savonia Region,FI,Europe
+914,SE-Y,Västernorrlands län,SE,Europe
+915,MZ-A,Niassa Province,MZ,Africa
+916,CL-BI,Bío-Bío Region,CL,South America
+917,TR-50,Nevşehir Province,TR,Asia
+918,BY-VI,Vitebsk Region,BY,Europe
+919,CY-03,Famagusta District,CY,Asia
+920,BS-CO,Central Abaco,BS,North America
+921,DE-BW,Baden-Württemberg,DE,Europe
+922,TR-61,Trabzon Province,TR,Asia
+923,GR-J,Peloponnese,GR,Europe
+924,BF-KAD,Kadiogo Province,BF,Africa
+925,FJ-C,Central Division,FJ,Oceania
+926,VE-D,Aragua State,VE,South America
+927,AE-AZ,Abu Dhabi Emirate,AE,Asia
+928,RU-TA,Republic of Tatarstan,RU,Europe
+929,DO-20,Samaná Province,DO,North America
+930,HR-19,Dubrovnik-Neretva County,HR,Europe
+931,IL-M,Central District,IL,Asia
+932,AF-PIA,Paktia Province,AF,Asia
+933,NZ-NSN,Nelson Region,NZ,Oceania
+934,CO-SAP,"San Andrés, Providencia y Santa Catalina Department",CO,South America
+935,IN-KA,Karnataka,IN,Asia
+936,NG-KD,Kaduna State,NG,Africa
+937,CG-5,Kouilou Department,CG,Africa
+938,GW-BS,Bissau Autonomous Sector,GW,Africa
+939,AM-SH,Shirak Province,AM,Asia
+940,ID-LA,Lampung,ID,Asia
+941,SK-BL,Bratislava Region,SK,Europe
+942,SV-PA,La Paz Department,SV,North America
+943,TR-47,Mardin Province,TR,Asia
+944,DO-11,La Altagracia Province,DO,North America
+945,IN-JK,Jammu and Kashmir,IN,Asia
+946,ZM-03,Eastern Province,ZM,Africa
+947,TD-ND,N'Djamena (city),TD,Africa
+948,YE-SA,Sanaa Municipality,YE,Asia
+949,BD-4,Khulna Division,BD,Asia
+950,GU-U-A,(unassigned),GU,Oceania
+951,VE-X,La Guaira State,VE,South America
+952,CO-ARA,Arauca Department,CO,South America
+953,UY-CA,Canelones Department,UY,South America
+954,AF-URU,Orūzgān Province,AF,Asia
+955,ML-1,Kayes Region,ML,Africa
+956,TL-BO,Bobonaro,TL,Asia
+957,CL-LR,Los Ríos Region,CL,South America
+958,SO-GE,Gedo,SO,Africa
+959,CN-37,Shandong Province,CN,Asia
+960,TH-83,Phuket Province,TH,Asia
+961,DZ-31,Oran Province,DZ,Africa
+962,MX-GRO,Guerrero,MX,North America
+963,GQ-LI,Litoral Province,GQ,Africa
+964,MW-MG,Mangochi District,MW,Africa
+965,BI-BM,Bujumbura Mairie Province,BI,Africa
+966,CD-SA,Sankuru Province,CD,Africa
+967,TR-05,Amasya Province,TR,Asia
+968,LA-KH,Khammouan Province,LA,Asia
+969,AR-G,Santiago del Estero Province,AR,South America
+970,NL-NH,Noord-Holland,NL,Europe
+971,SD-04,River Nile State,SD,Africa
+972,VU-TOB,Torba,VU,Oceania
+973,ML-6,Tombouctou Region,ML,Africa
+974,TR-63,Şanlıurfa Province,TR,Asia
+975,SD-12,West Darfur State,SD,Africa
+976,CZ-ST,Central Bohemian Region,CZ,Europe
+977,VE-S,Táchira State,VE,South America
+978,SN-ZG,Ziguinchor Region,SN,Africa
+979,BG-03,Varna Province,BG,Europe
+980,GR-C,Western Macedonia,GR,Europe
+981,HU-BA,Baranya County,HU,Europe
+982,YE-AD,Aden Governorate,YE,Asia
+983,ID-JB,Jawa Barat (West Java),ID,Asia
+984,AR-E,Entre Ríos Province,AR,South America
+985,PH-BAS,Basilan Province,PH,Asia
+986,TH-50,Chiang Mai Province,TH,Asia
+987,CV-S,Sotavento Islands,CV,Africa
+988,MX-BCN,Baja California,MX,North America
+989,PG-HLA,Hela Province,PG,Oceania
+990,TH-92,Trang Province,TH,Asia
+991,SD-05,Kassala State,SD,Africa
+992,VU-SAM,Sanma,VU,Oceania
+993,ID-RI,Riau,ID,Asia
+994,ID-KU,Kalimantan Utara (North Kalimantan),ID,Asia
+995,CH-SG,St. Gallen,CH,Europe
+996,KZ-VOS,East Kazakhstan Region,KZ,Asia
+997,GN-F,Faranah Region,GN,Africa
+998,CM-AD,Adamaoua Region,CM,Africa
+999,TW-KHH,Kaohsiung City,TW,Asia
+1000,VE-R,Sucre State,VE,South America
+1001,TZ-07,Kaskazini Unguja Region,TZ,Africa
+1002,SO-WO,Maroodi Jeex,SO,Africa
+1003,TM-M,Mary Region,TM,Asia
+1004,LY-JU,Al Jufrah District,LY,Africa
+1005,BR-PI,Piauí,BR,South America
+1006,SG-04,South East,SG,Asia
+1007,HT-SD,Sud Department,HT,North America
+1008,CC-U-A,(unassigned),CC,Asia
+1009,TD-KA,Kanem,TD,Africa
+1010,ES-NC,Navarra,ES,Europe
+1011,IT-72,Campania,IT,Europe
+1012,CY-06,Paphos District,CY,Asia
+1013,DZ-27,Mostaganem Province,DZ,Africa
+1014,OM-SH,Ash Sharqlyah Governorate,OM,Asia
+1015,NG-NI,Niger State,NG,Africa
+1016,AE-DU,Dubai Emirate,AE,Asia
+1017,GM-W,Western Division,GM,Africa
+1018,ME-03,Berane Municipality,ME,Europe
+1019,DZ-28,M'Sila Province,DZ,Africa
+1020,CG-2,Lékoumou Department,CG,Africa
+1021,IS-5,Northwestern Region,IS,Europe
+1022,BY-HO,Gomel Region,BY,Europe
+1023,AR-D,San Luis Province,AR,South America
+1024,RU-VLG,Vologda Oblast,RU,Europe
+1025,DZ-05,Batna Province,DZ,Africa
+1026,PH-ILN,Ilocos Norte Province,PH,Asia
+1027,NE-7,Zinder Region,NE,Africa
+1028,SY-LA,Latakia Governorate,SY,Asia
+1029,RU-KGD,Kaliningrad Oblast,RU,Europe
+1030,CI-MG,Montagnes District,CI,Africa
+1031,IN-KL,Kerala,IN,Asia
+1032,IS-8,Southern Region,IS,Europe
+1033,ML-3,Sikasso Region,ML,Africa
+1034,NP-P5,Lumbini Province,NP,Asia
+1035,CZ-PR,Praha (Prague) (capital city),CZ,Europe
+1036,KR-49,Jeju Teukbyeoljachi-do (Jeju Special Self-Governing Province),KR,Asia
+1037,KG-Y,Issyk Kul Region,KG,Asia
+1038,SS-LK,Lakes State,SS,Africa
+1039,TH-81,Krabi Province,TH,Asia
+1040,CN-11,Beijing Municipality,CN,Asia
+1041,BQ-BO,Bonaire,BQ,North America
+1042,PA-1,Bocas del Toro Province,PA,North America
+1043,CF-MB,Mbomou,CF,Africa
+1044,UG-W,Western Region,UG,Africa
+1045,SY-HI,Homs Governorate,SY,Asia
+1046,TH-52,Lampang Province,TH,Asia
+1047,TZ-20,Rukwa Region,TZ,Africa
+1048,KZ-KZY,Kyzylorda Region,KZ,Asia
+1049,MX-NAY,Nayarit,MX,North America
+1050,TL-BA,Baucau,TL,Asia
+1051,DJ-OB,Obock Region,DJ,Africa
+1052,CL-AI,Aysén Region,CL,South America
+1053,MX-DIF,Ciudad de México,MX,North America
+1054,AG-10,Barbuda Dependency,AG,North America
+1055,CD-NU,Nord-Ubangi Province,CD,Africa
+1056,PH-PLW,Palawan Province,PH,Asia
+1057,PH-BAG,Baguio City,PH,Asia
+1058,MM-15,Mon State,MM,Asia
+1059,ET-BE,Benishangul-Gumuz Region,ET,Africa
+1060,PH-ILI,Iloilo Province,PH,Asia
+1061,JP-03,Iwate Prefecture,JP,Asia
+1062,DO-16,Pedernales Province,DO,North America
+1063,RU-NEN,Nenets Autonomous Okrug,RU,Europe
+1064,IR-09,Razavi Khorasan Province,IR,Asia
+1065,GL-QA,Qeqqata Municipality,GL,North America
+1066,IT-36,Friuli-Venezia Giulia,IT,Europe
+1067,DE-HB,Bremen,DE,Europe
+1068,CO-NAR,Nariño Department,CO,South America
+1069,PT-18,Viseu District,PT,Europe
+1070,IT-88,Sardinia,IT,Europe
+1071,JP-04,Miyagi Prefecture,JP,Asia
+1072,TR-60,Tokat Province,TR,Asia
+1073,KZ-SEV,North Kazakhstan Region,KZ,Asia
+1074,SI-160,Hoče-Slivnica Municipality,SI,Europe
+1075,CN-46,Hainan Province,CN,Asia
+1076,BD-2,Chittagong Division,BD,Asia
+1077,PA-2,Coclé Province,PA,North America
+1078,GA-6,Ogooué-Ivindo Province,GA,Africa
+1079,NP-P6,Karnali Province,NP,Asia
+1080,RU-AMU,Amur Oblast,RU,Europe
+1081,AO-UIG,Uíge Province,AO,Africa
+1082,TR-07,Antalya Province,TR,Asia
+1083,LU-L,Luxembourg,LU,Europe
+1084,AS-MA,Manuʻa District,AS,Oceania
+1085,SE-E,Östergötlands län,SE,Europe
+1086,SO-BN,Banaadir,SO,Africa
+1087,SA-07,Tabuk Region,SA,Asia
+1088,AR-P,Formosa Province,AR,South America
+1089,ML-5,Mopti Region,ML,Africa
+1090,IL-HA,Haifa District,IL,Asia
+1091,NL-DR,Drenthe,NL,Europe
+1092,BF-SEN,Séno Province,BF,Africa
+1093,UA-30,Kyiv (city),UA,Europe
+1094,MZ-T,Tete Province,MZ,Africa
+1095,GF-CY,Cayenne,GF,South America
+1096,BR-RN,Rio Grande do Norte,BR,South America
+1097,TR-73,Şırnak Province,TR,Asia
+1098,ZW-MN,Matabeleland North Province,ZW,Africa
+1099,CO-CUN,Cundinamarca Department,CO,South America
+1100,FR-BRE,Brittany,FR,Europe
+1101,RU-TUL,Tula Oblast,RU,Europe
+1102,AZ-LA,Lankaran District,AZ,Asia
+1103,MA-03,Fès-Meknès Region,MA,Africa
+1104,MA-10,Guelmim-Oued Noun Region,MA,Africa
+1105,RO-B,Bucharest (municipality),RO,Europe
+1106,TH-32,Surin Province,TH,Asia
+1107,BS-NO,North Abaco,BS,North America
+1108,DZ-33,Illizi Province,DZ,Africa
+1109,VC-06,Grenadines,VC,North America
+1110,TR-43,Kütahya Province,TR,Asia
+1111,CH-BE,Bern,CH,Europe
+1112,JP-31,Tottori Prefecture,JP,Asia
+1113,PH-CEB,Cebu Province,PH,Asia
+1114,IN-PY,Pondicherry,IN,Asia
+1115,CL-ML,Maule Region,CL,South America
+1116,KI-L,Line Islands,KI,Oceania
+1117,IE-KY,County Kerry,IE,Europe
+1118,UA-35,Kirovohrad Oblast,UA,Europe
+1119,MY-15,Labuan (Federal Territory),MY,Asia
+1120,PE-TAC,Tacna Region,PE,South America
+1121,JP-23,Aichi Prefecture,JP,Asia
+1122,LK-7,North Central Province,LK,Asia
+1123,HT-ND,Nord Department,HT,North America
+1124,AO-CNO,Cuanza Norte Province,AO,Africa
+1125,CD-SU,Sud-Ubangi Province,CD,Africa
+1126,AR-M,Mendoza Province,AR,South America
+1127,AU-ACT,Australian Capital Territory,AU,Oceania
+1128,IR-04,West Azerbaijan Province,IR,Asia
+1129,NG-AK,Akwa Ibom State,NG,Africa
+1130,US-DE,Delaware,US,North America
+1131,TR-44,Malatya Province,TR,Asia
+1132,SA-05,Al Qasim Region,SA,Asia
+1133,UY-PA,Paysandu Department,UY,South America
+1134,AR-L,La Pampa Province,AR,South America
+1135,LS-F,Mohale's Hoek District,LS,Africa
+1136,MM-16,Rakhine State,MM,Asia
+1137,TO-03,Niua Islands,TO,Oceania
+1138,VE-Y,Delta Amacuro State,VE,South America
+1139,SI-090,Piran Municipality,SI,Europe
+1140,PH-ZAN,Zamboanga del Norte Province,PH,Asia
+1141,EG-AST,Asyut Governorate,EG,Africa
+1142,SA-09,Jlzan Region,SA,Asia
+1143,CL-AP,Arica and Parinacota Region,CL,South America
+1144,AZ-ZAQ,Zaqatala District,AZ,Asia
+1145,TZ-25,Tanga Region,TZ,Africa
+1146,MY-02,Kedah,MY,Asia
+1147,AT-8,Vorarlberg,AT,Europe
+1148,SA-02,Makkah Region,SA,Asia
+1149,SS-NU,Upper Nile State,SS,Africa
+1150,CZ-OL,Olomouc Region,CZ,Europe
+1151,IT-65,Abruzzi,IT,Europe
+1152,TH-94,Pattani Province,TH,Asia
+1153,PH-ANT,Antique Province,PH,Asia
+1154,UZ-BU,Bukhara Region,UZ,Asia
+1155,KM-G,Grande Comore (Ngazidja),KM,Africa
+1156,TZ-12,Lindi Region,TZ,Africa
+1157,JP-37,Kagawa Prefecture,JP,Asia
+1158,CO-GUA,Guainía Department,CO,South America
+1159,CI-VB,Vallée du Bandama District,CI,Africa
+1160,SL-W,Western Area,SL,Africa
+1161,HN-GD,Gracias a Dios Department,HN,North America
+1162,PH-PAM,Pampanga Province,PH,Asia
+1163,LY-SR,Surt District,LY,Africa
+1164,RU-KGN,Kurgan Oblast,RU,Europe
+1165,BZ-SC,Stann Creek District,BZ,North America
+1166,MM-06,Yangon Region,MM,Asia
+1167,MH-MIL,Mili,MH,Oceania
+1168,ET-XSD,Sidama Region,ET,Africa
+1169,ID-YO,Yogyakarta,ID,Asia
+1170,PE-SAM,San Martín Region,PE,South America
+1171,KE-200,Central Province,KE,Africa
+1172,RO-SV,Suceava County,RO,Europe
+1173,BJ-AL,Alibori Department,BJ,Africa
+1174,ZM-07,Southern Province,ZM,Africa
+1175,AO-HUI,Huíla Province,AO,Africa
+1176,RU-KIR,Kirov Oblast,RU,Europe
+1177,CI-SM,Sassandra-Marahoué District,CI,Africa
+1178,DE-HE,Hesse,DE,Europe
+1179,KR-48,Gyeongsangnam-do (South Gyeongsang Province),KR,Asia
+1180,BG-16,Plovdiv Province,BG,Europe
+1181,AR-V,Tierra del Fuego Province,AR,South America
+1182,IR-26,Qazvin Province,IR,Asia
+1183,DE-HH,Hamburg,DE,Europe
+1184,BL-U-A,(unassigned),BL,North America
+1185,KZ-MAN,Mangystau Region,KZ,Asia
+1186,KR-45,Jeonbuk Teukbyeoljachi-do (North Jeolla Special Self-Governing Province),KR,Asia
+1187,OM-MA,Masqat Governorate,OM,Asia
+1188,IR-12,Kurdistan Province,IR,Asia
+1189,CD-KC,Kasaï-Central Province,CD,Africa
+1190,TH-85,Ranong Province,TH,Asia
+1191,MV-12,Meemu Atoll,MV,Asia
+1192,KR-27,Daegu-gwangyeoksi (Daegu Metropolitan City),KR,Asia
+1193,FI-03,South Ostrobothnia Region,FI,Europe
+1194,NZ-WTC,West Coast Region,NZ,Oceania
+1195,TR-01,Adana Province,TR,Asia
+1196,BR-ES,Espírito Santo,BR,South America
+1197,GT-ES,Escuintla Department,GT,North America
+1198,TR-34,İstanbul Province,TR,Asia
+1199,JP-20,Nagano Prefecture,JP,Asia
+1200,KM-M,Mohéli (Mwali),KM,Africa
+1201,CY-04,Larnaca District,CY,Asia
+1202,MV-13,Raa Atoll,MV,Asia
+1203,TG-K,Kara Region,TG,Africa
+1204,RU-TVE,Tver Oblast,RU,Europe
+1205,DZ-13,Tlemcen Province,DZ,Africa
+1206,TH-72,Suphan Buri Province,TH,Asia
+1207,JP-28,Hyōgo Prefecture,JP,Asia
+1208,CF-BB,Bamingui-Bangoran,CF,Africa
+1209,RO-TM,Timiş County,RO,Europe
+1210,VI-SC,Saint Croix,VI,North America
+1211,BO-O,Oruro Department,BO,South America
+1212,JP-14,Kanagawa Prefecture,JP,Asia
+1213,AO-CAB,Cabinda Province,AO,Africa
+1214,PL-MA,Lesser Poland Voivodeship,PL,Europe
+1215,ZA-FS,Free State,ZA,Africa
+1216,CD-KE,Kasaï-Oriental Province,CD,Africa
+1217,IN-BR,Bihar,IN,Asia
+1218,AF-KAB,Kabul Province,AF,Asia
+1219,SB-TE,Temotu Province,SB,Oceania
+1220,KR-26,Busan-gwangyeoksi (Busan Metropolitan City),KR,Asia
+1221,MR-03,Assaba Region,MR,Africa
+1222,VC-04,Saint George,VC,North America
+1223,FR-PAC,Provence-Alpes-Côte-d'Azur,FR,Europe
+1224,NL-NB,Noord-Brabant,NL,Europe
+1225,RU-MO,Republic of Mordovia,RU,Europe
+1226,CG-11,Bouenza Department,CG,Africa
+1227,PL-KP,Kuyavian-Pomeranian Voivodeship,PL,Europe
+1228,EG-C,Cairo Governorate,EG,Africa
+1229,PH-LAN,Lanao del Norte Province,PH,Asia
+1230,GR-M,Crete,GR,Europe
+1231,DK-84,Capital Region,DK,Europe
+1232,RU-LIP,Lipetsk Oblast,RU,Europe
+1233,ES-CB,Cantabria,ES,Europe
+1234,TR-46,Kahramanmaraş Province,TR,Asia
+1235,UY-TT,Treinta y Tres Department,UY,South America
+1236,BW-CH,Chobe District,BW,Africa
+1237,TD-OD,Ouaddaï,TD,Africa
+1238,RO-BC,Bacău County,RO,Europe
+1239,HN-IN,Intibucá Department,HN,North America
+1240,PL-WN,Warmian-Masurian Voivodeship,PL,Europe
+1241,ER-GB,Gash-Barka Region,ER,Africa
+1242,ZW-MA,Manicaland Province,ZW,Africa
+1243,HR-18,Istria County,HR,Europe
+1244,ES-ML,Melilla (city),ES,Europe
+1245,HN-IB,Islas de la Bahía Department,HN,North America
+1246,SG-02,North East,SG,Asia
+1247,RE-SD,Saint-Denis Arrondissement,RE,Africa
+1248,KZ-BAY,Baikonur City,KZ,Asia
+1249,MY-03,Kelantan,MY,Asia
+1250,FI-01,Åland Islands Region,FI,Europe
+1251,TM-B,Balkan Region,TM,Asia
+1252,JP-27,Ōsaka Prefecture,JP,Asia
+1253,PT-08,Faro District,PT,Europe
+1254,KR-11,Seoul-teukbyeolsi (Seoul Special City),KR,Asia
+1255,ES-AS,Asturias,ES,Europe
+1256,UA-59,Sumy Oblast,UA,Europe
+1257,TJ-KT,Khatlon Region,TJ,Asia
+1258,TL-OE,Oecussi,TL,Asia
+1259,MR-08,Dakhlet Nouadhibou Region,MR,Africa
+1260,SC-15,La Digue,SC,Africa
+1261,NG-CR,Cross River State,NG,Africa
+1262,ID-SA,Sulawesi Utara (North Sulawesi),ID,Asia
+1263,TH-90,Songkhla Province,TH,Asia
+1264,MM-13,Kayin State,MM,Asia
+1265,DO-13,La Vega Province,DO,North America
+1266,IS-7,Eastern Region,IS,Europe
+1267,NZ-GIS,Gisborne Region,NZ,Oceania
+1268,ZM-09,Lusaka Province,ZM,Africa
+1269,CZ-ZL,Zlín Region,CZ,Europe
+1270,GH-AH,Ashanti Region,GH,Africa
+1271,MU-GP,Grand Port,MU,Africa
+1272,KZ-KUS,Kostanay Region,KZ,Asia
+1273,NG-DE,Delta State,NG,Africa
+1274,IE-KK,County Kilkenny,IE,Europe
+1275,BO-C,Cochabamba Department,BO,South America
+1276,RO-CS,Caras-Severin County,RO,Europe
+1277,TH-58,Mae Hong Son Province,TH,Asia
+1278,MX-PUE,Puebla,MX,North America
+1279,PH-SUK,Sultan Kudarat Province,PH,Asia
+1280,SG-03,North West,SG,Asia
+1281,LR-MY,Maryland County,LR,Africa
+1282,KZ-ABA,Abai Region,KZ,Asia
+1283,KZ-AKT,Aktobe Region,KZ,Asia
+1284,ID-GO,Gorontalo,ID,Asia
+1285,KW-FA,Al Farwaniyah Governorate,KW,Asia
+1286,EG-BA,Red Sea Governorate,EG,Africa
+1287,LR-NI,Nimba County,LR,Africa
+1288,ID-BT,Banten,ID,Asia
+1289,KH-9,Koh Kong province,KH,Asia
+1290,FM-KSA,Kosrae State,FM,Oceania
+1291,TZ-02,Dar-es-Salaam Region,TZ,Africa
+1292,ML-7,Gao Region,ML,Africa
+1293,IR-24,Ardabil Province,IR,Asia
+1294,BR-PE,Pernambuco,BR,South America
+1295,FM-PNI,Pohnpei State,FM,Oceania
+1296,FI-12,Ostrobothnia Region,FI,Europe
+1297,CZ-KA,Karlovy Vary Region,CZ,Europe
+1298,BD-3,Dhaka Division,BD,Asia
+1299,NG-LA,Lagos State,NG,Africa
+1300,NI-RI,Rivas Department,NI,North America
+1301,DZ-14,Tiaret Province,DZ,Africa
+1302,CD-TO,Tshopo Province,CD,Africa
+1303,EG-SIN,North Sinai Governorate,EG,Africa
+1304,SN-KD,Kolda Region,SN,Africa
+1305,AF-KAN,Kandahar Province,AF,Asia
+1306,AR-K,Catamarca Province,AR,South America
+1307,BR-PB,Paraíba,BR,South America
+1308,MW-SA,Salima District,MW,Africa
+1309,BS-MG,Mayaguana,BS,North America
+1310,IR-20,Semnan Province,IR,Asia
+1311,UA-19,Rivne Oblast,UA,Europe
+1312,CO-GUV,Guaviare Department,CO,South America
+1313,SD-26,Red Sea State,SD,Africa
+1314,AO-BGU,Benguela Province,AO,Africa
+1315,RU-IN,Republic of Ingushetia,RU,Europe
+1316,MX-NLE,Nuevo León,MX,North America
+1317,TN-82,Medenine Governorate,TN,Africa
+1318,CU-09,Camagüey Province,CU,North America
+1319,DZ-47,Ghardaïa Province,DZ,Africa
+1320,TR-48,Muğla Province,TR,Asia
+1321,ZA-EC,Eastern Cape,ZA,Africa
+1322,SO-HI,Hiran,SO,Africa
+1323,MM-07,Ayeyarwady Region,MM,Asia
+1324,CG-7,Likouala Department,CG,Africa
+1325,NZ-CAN,Canterbury Region,NZ,Oceania
+1326,CO-SAN,Santander Department,CO,South America
+1327,ID-KR,Kepulauan Riau (Riau Islands),ID,Asia
+1328,TO-02,Ha'apai,TO,Oceania
+1329,IQ-BG,Baghdad Governorate,IQ,Asia
+1330,MH-MAJ,Majuro,MH,Oceania
+1331,MH-UTI,Utirik,MH,Oceania
+1332,MU-RO,Rodrigues Island,MU,Africa
+1333,PY-8,Misiones Department,PY,South America
+1334,TZ-01,Arusha Region,TZ,Africa
+1335,UA-53,Poltava Oblast,UA,Europe
+1336,IT-62,Lazio,IT,Europe
+1337,RU-IVA,Ivanovo Oblast,RU,Europe
+1338,CO-ATL,Atlántico Department,CO,South America
+1339,PE-MDD,Madre de Dios Region,PE,South America
+1340,HT-GA,Grande'Anse Department,HT,North America
+1341,TM-D,Daşoguz Region,TM,Asia
+1342,PE-PIU,Piura Region,PE,South America
+1343,CM-SW,South-West Region,CM,Africa
+1344,BS-SA,South Andros,BS,North America
+1345,TH-84,Surat Thani Province,TH,Asia
+1346,YE-HU,Al Hudaydah Governorate,YE,Asia
+1347,YE-HJ,Hajjah Governorate,YE,Asia
+1348,MA-06,Casablanca-Settat Region,MA,Africa
+1349,MZ-N,Nampula Province,MZ,Africa
+1350,RU-NVS,Novosibirsk Oblast,RU,Europe
+1351,HU-BU,Budapest (capital city),HU,Europe
+1352,JP-43,Kumamoto Prefecture,JP,Asia
+1353,DZ-32,El Bayadh Province,DZ,Africa
+1354,UA-68,Khmelnytskyi Oblast,UA,Europe
+1355,YE-MR,Al Mahrah Governorate,YE,Asia
+1356,IT-25,Lombardy,IT,Europe
+1357,PY-10,Alto Paraná Department,PY,South America
+1358,CU-04,Matanzas Province,CU,North America
+1359,LY-JG,Al Jabal al Gharbi District,LY,Africa
+1360,AF-PAR,Parwan Province,AF,Asia
+1361,MR-04,Gorgol Region,MR,Africa
+1362,SR-MA,Marowijne,SR,South America
+1363,NU-U-A,(unassigned),NU,Oceania
+1364,NO-11,Rogaland,NO,Europe
+1365,GR-B,Central Macedonia,GR,Europe
+1366,FI-19,Southwest Finland Region,FI,Europe
+1367,SC-20,Pointe La Rue,SC,Africa
+1368,BT-33,Bumthang District,BT,Asia
+1369,CD-IT,Ituri Province,CD,Africa
+1370,TR-17,Çanakkale Province,TR,Asia
+1371,EC-L,Loja Province,EC,South America
+1372,RU-KR,Republic of Karelia,RU,Europe
+1373,LV-111,Augšdaugava Municipality,LV,Europe
+1374,FI-18,Uusimaa Region,FI,Europe
+1375,JP-33,Okayama Prefecture,JP,Asia
+1376,TT-TOB,Tobago,TT,North America
+1377,MY-07,Penang,MY,Asia
+1378,BT-41,Trashigang District,BT,Asia
+1379,AR-T,Tucumán Province,AR,South America
+1380,TJ-SU,Sughd Region,TJ,Asia
+1381,TR-55,Samsun Province,TR,Asia
+1382,AI-U-A,(unassigned),AI,North America
+1383,ZM-06,North-Western Province,ZM,Africa
+1384,IM-U-A,(unassigned),IM,Europe
+1385,ES-AR,Aragón,ES,Europe
+1386,FI-02,South Karelia Region,FI,Europe
+1387,MZ-MPM,Maputo (city),MZ,Africa
+1388,EC-O,El Oro Province,EC,South America
+1389,KE-600,Nyanza Province,KE,Africa
+1390,IR-23,Tehran Province,IR,Asia
+1391,GR-F,Ionian Islands,GR,Europe
+1392,TD-GR,Guéra,TD,Africa
+1393,TN-71,Gafsa Governorate,TN,Africa
+1394,MH-BIK,Bikini,MH,Oceania
+1395,AE-SH,Sharjah Emirate,AE,Asia
+1396,NI-AS,South Caribbean Coast Autonomous Region,NI,North America
+1397,KM-A,Anjouan (Ndzouani),KM,Africa
+1398,PE-APU,Apurímac Region,PE,South America
+1399,LB-AS,North Governorate,LB,Asia
+1400,TC-SC,South Caicos,TC,North America
+1401,NE-8,Niamey Capital District,NE,Africa
+1402,ZW-HA,Harare Metropolitan Province,ZW,Africa
+1403,IQ-TS,Kirkuk Governorate,IQ,Asia
+1404,BW-NW,North West District,BW,Africa
+1405,ES-RI,La Rioja,ES,Europe
+1406,MN-071,Bayan-Ölgii Province,MN,Asia
+1407,IN-LA,Ladakh,IN,Asia
+1408,RU-MAG,Magadan Oblast,RU,Europe
+1409,PH-SLU,Sulu Province,PH,Asia
+1410,DK-85,Zealand,DK,Europe
+1411,LC-11,Vieux Fort,LC,North America
+1412,MH-WTJ,Wotje,MH,Oceania
+1413,RS-00,Beograd (city),RS,Europe
+1414,UA-23,Zaporizhia Oblast,UA,Europe
+1415,MN-046,Uvs Province,MN,Asia
+1416,NO-33,Buskerud,NO,Europe
+1417,SC-14,Grand' Anse (Praslin),SC,Africa
+1418,TH-34,Ubon Ratchathani Province,TH,Asia
+1419,WS-PA,Palauli District,WS,Oceania
+1420,HT-OU,Ouest Department,HT,North America
+1421,TZ-21,Ruvuma Region,TZ,Africa
+1422,BZ-BZ,Belize District,BZ,North America
+1423,SN-MT,Matam Region,SN,Africa
+1424,VE-E,Barinas State,VE,South America
+1425,CF-HK,Haute-Kotto,CF,Africa
+1426,TZ-19,Pwani Region,TZ,Africa
+1427,GG-A,Alderney,GG,Europe
+1428,KG-C,Chuy Region,KG,Asia
+1429,KG-O,Osh Region,KG,Asia
+1430,NO-40,Telemark,NO,Europe
+1431,NG-BO,Borno State,NG,Africa
+1432,NG-OY,Oyo State,NG,Africa
+1433,RU-NIZ,Nizhny Novgorod Oblast,RU,Europe
+1434,CO-COR,Córdoba Department,CO,South America
+1435,CH-NW,Nidwalden,CH,Europe
+1436,TZ-14,Mbeya Region,TZ,Africa
+1437,AR-H,Chaco Province,AR,South America
+1438,SL-E,Eastern Province,SL,Africa
+1439,GQ-AN,Annobón Province,GQ,Africa
+1440,TZ-09,Kilimanjaro Region,TZ,Africa
+1441,BR-DF,Distrito Federal,BR,South America
+1442,AE-FU,Fujairah Emirate,AE,Asia
+1443,TC-MC,Middle Caicos,TC,North America
+1444,KE-110,Nairobi Province,KE,Africa
+1445,CU-10,Las Tunas Province,CU,North America
+1446,SE-K,Blekinge län,SE,Europe
+1447,MV-MLE,Malé (capital city),MV,Asia
+1448,BS-RC,Rum Cay,BS,North America
+1449,SB-CE,Central Province,SB,Oceania
+1450,SE-T,Örebro län,SE,Europe
+1451,LY-WA,Al Wahat District,LY,Africa
+1452,AO-BGO,Bengo Province,AO,Africa
+1453,DJ-TA,Tadjoura Region,DJ,Africa
+1454,GR-K,North Aegean,GR,Europe
+1455,YE-SU,Socotra Archipelago Governorate,YE,Asia
+1456,AF-BDS,Badakhshan Province,AF,Asia
+1457,ME-19,Tivat Municipality,ME,Europe
+1458,TH-95,Yala Province,TH,Asia
+1459,GE-AJ,Autonomous Republic of Adjara,GE,Asia
+1460,CF-HM,Haut-Mbomou,CF,Africa
+1461,AF-KDZ,Kunduz Province,AF,Asia
+1462,MV-01,Addu Atoll,MV,Asia
+1463,ID-KT,Kalimantan Tengah (Central Kalimantan),ID,Asia
+1464,JM-09,Hanover Parish,JM,North America
+1465,RU-KDA,Krasnodar Krai,RU,Europe
+1466,PH-LAS,Lanao del Sur Province,PH,Asia
+1467,MN-061,Dornod Province,MN,Asia
+1468,TH-31,Buriram Province,TH,Asia
+1469,SR-NI,Nickerie,SR,South America
+1470,UA-77,Chernivtsi Oblast,UA,Europe
+1471,NZ-AUK,Auckland Region,NZ,Oceania
+1472,EC-E,Esmeraldas Province,EC,South America
+1473,JP-06,Yamagata Prefecture,JP,Asia
+1474,MX-QUE,Querétaro,MX,North America
+1475,LS-G,Quthing District,LS,Africa
+1476,NG-ED,Edo State,NG,Africa
+1477,RW-03,Northern Province,RW,Africa
+1478,NG-KT,Katsina State,NG,Africa
+1479,LA-SV,Savannakhet Province,LA,Asia
+1480,TR-57,Sinop Province,TR,Asia
+1481,IR-17,Kohgiluyeh and Boyer-Ahmad Province,IR,Asia
+1482,GR-A,Eastern Macedonia and Thrace,GR,Europe
+1483,LV-VEN,Ventspils (city),LV,Europe
+1484,ZW-MW,Mashonaland West Province,ZW,Africa
+1485,MV-20,Baa Atoll,MV,Asia
+1486,TN-81,Gabès Governorate,TN,Africa
+1487,ZW-BU,Bulawayo Metropolitan Province,ZW,Africa
+1488,DZ-23,Annaba Province,DZ,Africa
+1489,MY-01,Johor,MY,Asia
+1490,CH-VS,Valais,CH,Europe
+1491,GY-DE,Demerara-Mahaica,GY,South America
+1492,GT-RE,Retalhuleu Department,GT,North America
+1493,GH-NP,Northern Region,GH,Africa
+1494,PT-13,Oporto District,PT,Europe
+1495,PL-ZP,West Pomeranian Voivodeship,PL,Europe
+1496,CO-RIS,Risaralda Department,CO,South America
+1497,PH-CAN,Camarines Norte Province,PH,Asia
+1498,ID-SB,Sumatera Barat (West Sumatra),ID,Asia
+1499,JP-32,Shimane Prefecture,JP,Asia
+1500,BZ-CZL,Corozal District,BZ,North America
+1501,TH-55,Nan Province,TH,Asia
+1502,GH-WP,Western Region,GH,Africa
+1503,RU-PER,Perm Krai,RU,Europe
+1504,MD-RS,Rîşcani District,MD,Europe
+1505,SC-26,Outer Islands,SC,Africa
+1506,PG-JWK,Jiwaka Province,PG,Oceania
+1507,CU-13,Santiago de Cuba Province,CU,North America
+1508,RU-STA,Stavropol Krai,RU,Europe
+1509,CX-U-A,(unassigned),CX,Asia
+1510,FI-17,Satakunta Region,FI,Europe
+1511,BW-SP,Selebi-Phikwe (town),BW,Africa
+1512,RU-TAM,Tambov Oblast,RU,Europe
+1513,GH-BO,Bono Region,GH,Africa
+1514,SE-G,Kronoberge län,SE,Europe
+1515,MX-AGU,Aguascalientes,MX,North America
+1516,RU-TY,Tuva Republic,RU,Europe
+1517,CI-AB,Abidjan (autonomous district),CI,Africa
+1518,NO-42,Agder,NO,Europe
+1519,LS-J,Mokhotlong District,LS,Africa
+1520,DZ-06,Béjaïa Province,DZ,Africa
+1521,PH-CAM,Camiguin Province,PH,Asia
+1522,CM-ES,East Region,CM,Africa
+1523,CR-SJ,San José Province,CR,North America
+1524,TD-BO,Borkou,TD,Africa
+1525,KR-29,Gwangju-gwangyeoksi (Gwangju Metropolitan City),KR,Asia
+1526,TR-32,Isparta Province,TR,Asia
+1527,MH-ARN,Arno,MH,Oceania
+1528,BJ-DO,Donga Department,BJ,Africa
+1529,JP-35,Yamaguchi Prefecture,JP,Asia
+1530,CH-LU,Lucerne,CH,Europe
+1531,IN-MZ,Mizoram,IN,Asia
+1532,EG-ALX,Alexandria Governorate,EG,Africa
+1533,JM-04,Portland Parish,JM,North America
+1534,PY-19,Boquerón Department,PY,South America
+1535,MV-27,Gaafu Alifu Atoll,MV,Asia
+1536,HN-FM,Francisco Morazán Department,HN,North America
+1537,SO-MU,Mudug,SO,Africa
+1538,RU-TOM,Tomsk Oblast,RU,Europe
+1539,FI-13,North Karelia Region,FI,Europe
+1540,BY-HR,Grodno Region,BY,Europe
+1541,MX-SIN,Sinaloa,MX,North America
+1542,TC-PN,Pine Cay,TC,North America
+1543,TW-TNN,Tainan City,TW,Asia
+1544,TH-76,Phetchaburi Province,TH,Asia
+1545,RU-PNZ,Penza Oblast,RU,Europe
+1546,RU-DA,Republic of Dagestan,RU,Europe
+1547,PH-CAT,Catanduanes Province,PH,Asia
+1548,MX-MEX,México (state),MX,North America
+1549,TR-06,Ankara Province,TR,Asia
+1550,KH-15,Pursat province,KH,Asia
+1551,RO-CJ,Cluj County,RO,Europe
+1552,MG-T,Antananarivo,MG,Africa
+1553,MH-EBO,Ebon,MH,Oceania
+1554,TW-CYQ,Chiayi County,TW,Asia
+1555,RU-CHE,Chelyabinsk Oblast,RU,Europe
+1556,IR-00,Markazi Province,IR,Asia
+1557,TH-54,Phrae Province,TH,Asia
+1558,ER-DK,Southern Red Sea Region,ER,Africa
+1559,IS-2,Southern Peninsula,IS,Europe
+1560,RS-20,Nišava District,RS,Europe
+1561,TC-GT,Grand Turk,TC,North America
+1562,CL-RM,Santiago Metropolitan Region,CL,South America
+1563,US-DC,District of Columbia,US,North America
+1564,CD-HL,Haut-Lomami Province,CD,Africa
+1565,VE-U,Yaracuy State,VE,South America
+1566,ES-EX,Extremadura,ES,Europe
+1567,UZ-QR,Republic of Karakalpakstan,UZ,Asia
+1568,MA-05,Béni Mellal-Khénifra Region,MA,Africa
+1569,KH-16,Ratanakiri province,KH,Asia
+1570,KI-P,Phoenix Islands,KI,Oceania
+1571,BS-HI,Harbour Island,BS,North America
+1572,PH-CAG,Cagayan Province,PH,Asia
+1573,MM-14,Chin State,MM,Asia
+1574,UZ-QA,Qashqadaryo Region,UZ,Asia
+1575,CG-13,Sangha Department,CG,Africa
+1576,NG-SO,Sokoto State,NG,Africa
+1577,TR-20,Denizli Province,TR,Asia
+1578,PT-04,Bragança District,PT,Europe
+1579,PH-WSA,Samar Province,PH,Asia
+1580,PE-UCA,Ucayali Region,PE,South America
+1581,PH-MSC,Misamis Occidental Province,PH,Asia
+1582,TZ-26,Manyara Region,TZ,Africa
+1583,IQ-NA,Najaf Governorate,IQ,Asia
+1584,CF-UK,Ouaka,CF,Africa
+1585,PH-DAO,Davao Oriental Province,PH,Asia
+1586,VE-N,Monagas State,VE,South America
+1587,UA-51,Odessa Oblast,UA,Europe
+1588,SA-11,Al Batah Region,SA,Asia
+1589,UY-SA,Salto Department,UY,South America
+1590,DZ-39,El Oued Province,DZ,Africa
+1591,MX-SLP,San Luis Potosí,MX,North America
+1592,RU-UD,Udmurt Republic,RU,Europe
+1593,AF-BDG,Badghis Province,AF,Asia
+1594,CM-CE,Centre Region,CM,Africa
+1595,IN-LD,Lakshadweep,IN,Asia
+1596,CN-41,Henan Province,CN,Asia
+1597,BA-SRP,Republika Srpska,BA,Europe
+1598,MR-07,Adrar Region,MR,Africa
+1599,BE-VWV,West Flanders Province,BE,Europe
+1600,PY-13,Amambay Department,PY,South America
+1601,BW-CE,Central District,BW,Africa
+1602,RW-01,City of Kigali,RW,Africa
+1603,YE-BA,Al Bayda Governorate,YE,Asia
+1604,CD-TU,Tshuapa Province,CD,Africa
+1605,PH-CAS,Camarines Sur Province,PH,Asia
+1606,NP-P4,Gandaki Province,NP,Asia
+1607,MV-29,Gnaviyani Atoll,MV,Asia
+1608,TD-LC,Lac,TD,Africa
+1609,NG-RI,Rivers State,NG,Africa
+1610,DE-SL,Saarland,DE,Europe
+1611,PE-LAM,Lambayeque Region,PE,South America
+1612,AO-CUS,Cuanza Sul Province,AO,Africa
+1613,TR-35,İzmir Province,TR,Asia
+1614,ET-DD,Dire Dawa,ET,Africa
+1615,PH-NER,Negros Oriental Province,PH,Asia
+1616,UZ-TO,Tashkent Region,UZ,Asia
+1617,MH-ALK,Ailuk,MH,Oceania
+1618,JP-44,Ōita Prefecture,JP,Asia
+1619,JP-38,Ehime Prefecture,JP,Asia
+1620,SO-SA,Sanaag,SO,Africa
+1621,JP-08,Ibaraki Prefecture,JP,Asia
+1622,TZ-18,Mwanza Region,TZ,Africa
+1623,SH-SH,Saint Helena,SH,Africa
+1624,BE-VAN,Antwerp Province,BE,Europe
+1625,MH-KWA,Kwajalein,MH,Oceania
+1626,GT-HU,Huehuetenango Department,GT,North America
+1627,TM-S,Ashgabat (city),TM,Asia
+1628,DZ-37,Tindouf Province,DZ,Africa
+1629,NL-LI,Limburg,NL,Europe
+1630,ID-SS,Sumatera Selatan (South Sumatra),ID,Asia
+1631,CD-NK,Nord-Kivu Province,CD,Africa
+1632,SO-BY,Bay,SO,Africa
+1633,CO-CAL,Caldas Department,CO,South America
+1634,MH-RON,Rongelap,MH,Oceania
+1635,PM-SP,Saint-Pierre,PM,North America
+1636,ZM-02,Central Province,ZM,Africa
+1637,LB-JL,Mount Lebanon Governorate,LB,Asia
+1638,TL-DI,Dili,TL,Asia
+1639,BS-SS,San Salvador,BS,North America
+1640,TD-BA,Batha,TD,Africa
+1641,TR-41,Kocaeli Province,TR,Asia
+1642,NE-1,Agadez Region,NE,Africa
+1643,TR-59,Tekirdağ Province,TR,Asia
+1644,RO-IF,Ilfov County,RO,Europe
+1645,DZ-01,Adrar Province,DZ,Africa
+1646,TR-23,Elazığ Province,TR,Asia
+1647,OM-MU,Musandam Governorate,OM,Asia
+1648,CU-01,Pinar del Río Province,CU,North America
+1649,MN-069,Bayankhongor Province,MN,Asia
+1650,PL-PK,Subcarpathian Voivodeship,PL,Europe
+1651,RU-YAR,Yaroslavl Oblast,RU,Europe
+1652,LT-PN,Panevėžys County,LT,Europe
+1653,TR-16,Bursa Province,TR,Asia
+1654,SZ-MA,Manzini Region,SZ,Africa
+1655,EE-67,Pärnu County,EE,Europe
+1656,JM-05,Saint Mary Parish,JM,North America
+1657,KH-12,Phnom Penh (municipality),KH,Asia
+1658,MH-ENI,Eniwetok,MH,Oceania
+1659,DZ-25,Constantine Province,DZ,Africa
+1660,CI-YM,Yamoussoukro (autonomous district),CI,Africa
+1661,IR-27,Golestan Province,IR,Asia
+1662,YT-U-A,(unassigned),YT,Africa
+1663,MX-CAM,Campeche,MX,North America
+1664,SR-PR,Para,SR,South America
+1665,TW-TAO,Taoyuan City,TW,Asia
+1666,MH-WTN,Wotho,MH,Oceania
+1667,MR-NKC,Nouakchott Region,MR,Africa
+1668,CU-06,Cienfuegos Province,CU,North America
+1669,BN-BM,Brunei-Muara District,BN,Asia
+1670,DZ-22,Sidi Bel Abbes Province,DZ,Africa
+1671,CD-LO,Lomami Province,CD,Africa
+1672,JE-U-A,(unassigned),JE,Europe
+1673,LA-OU,Oudomxai Province,LA,Asia
+1674,RU-VGG,Volgograd Oblast,RU,Europe
+1675,KP-07,Kangwon Province,KP,Asia
+1676,BF-SMT,Sanmatenga Province,BF,Africa
+1677,IN-AN,Andaman and Nicobar Islands,IN,Asia
+1678,AF-HER,Herat Province,AF,Asia
+1679,JP-40,Fukuoka Prefecture,JP,Asia
+1680,KZ-KAR,Karaganda Region,KZ,Asia
+1681,RU-ULY,Ulyanovsk Oblast,RU,Europe
+1682,TR-64,Uşak Province,TR,Asia
+1683,CZ-JM,South Moravian Region,CZ,Europe
+1684,VN-RRD,Red River Delta Region,VN,Asia
+1685,JP-12,Chiba Prefecture,JP,Asia
+1686,PH-ZSI,Zamboanga Sibugay Province,PH,Asia
+1687,MW-LK,Likoma Island District,MW,Africa
+1688,NO-21,Svalbard,NO,Europe
+1689,RU-VOR,Voronezh Oblast,RU,Europe
+1690,TC-PR,Providenciales,TC,North America
+1691,TD-TA,Tandjilé,TD,Africa
+1692,PE-ARE,Arequipa Region,PE,South America
+1693,LR-MG,Margibi County,LR,Africa
+1694,YE-MA,Marib Governorate,YE,Asia
+1695,IN-DH,Dadra and Nagar Haveli and Daman and Diu,IN,Asia
+1696,GT-IZ,Izabal Department,GT,North America
+1697,FI-04,Southern Savonia Region,FI,Europe
+1698,IN-UT,Uttarakhand,IN,Asia
+1699,NG-BA,Bauchi State,NG,Africa
+1700,LY-JA,Al Jabal al Akhdar District,LY,Africa
+1701,MH-JAB,Jabat Island,MH,Oceania
+1702,AO-HUA,Huambo Province,AO,Africa
+1703,GI-U-A,(unassigned),GI,Europe
+1704,SE-N,Hallands län,SE,Europe
+1705,BQ-SA,Saba,BQ,North America
+1706,LA-SL,Salavan Province,LA,Asia
+1707,GT-CQ,Chiquimula Department,GT,North America
+1708,TN-11,Tunis Governorate,TN,Africa
+1709,CY-XX,Sovereign Base Areas of Akrotiri and Dhekelia,CY,Asia
+1710,KP-01,Pyongyang (capital city),KP,Asia
+1711,AM-ER,Yerevan (capital district),AM,Asia
+1712,AF-BAM,Bamiyan Province,AF,Asia
+1713,PG-WHM,Western Highlands Province,PG,Oceania
+1714,AF-FRA,Farah Province,AF,Asia
+1715,DO-18,Puerto Plata Province,DO,North America
+1716,TH-65,Phitsanulok Province,TH,Asia
+1717,LY-BA,Benghazi District,LY,Africa
+1718,SN-SL,Saint-Louis Region,SN,Africa
+1719,RU-SAR,Saratov Oblast,RU,Europe
+1720,LV-112,South Kurzeme Municipality,LV,Europe
+1721,GA-1,Estuaire Province,GA,Africa
+1722,CH-GR,Grisons,CH,Europe
+1723,TR-04,Ağrı Province,TR,Asia
+1724,CN-12,Tianjin Municipality,CN,Asia
+1725,TW-X-KM,Kinmen County,TW,Asia
+1726,RU-CU,Chuvash Republic,RU,Europe
+1727,PH-MAD,Marinduque Province,PH,Asia
+1728,SE-D,Södermanlands län,SE,Europe
+1729,AO-LUA,Luanda Province,AO,Africa
+1730,NO-34,Innlandet,NO,Europe
+1731,LR-SI,Sinoe County,LR,Africa
+1732,KY-LC,Little Cayman,KY,North America
+1733,PY-11,Central Department,PY,South America
+1734,KH-13,Preah Vihear province,KH,Asia
+1735,EC-M,Manabi Province,EC,South America
+1736,EG-GZ,Giza Governorate,EG,Africa
+1737,SA-06,Ha'il Region,SA,Asia
+1738,PH-BTN,Batanes Province,PH,Asia
+1739,TD-CB,Chari-Baguirmi,TD,Africa
+1740,EC-C,Carchi Province,EC,South America
+1741,TR-72,Batman Province,TR,Asia
+1742,GE-AB,Autonomous Republic of Abkhazia,GE,Asia
+1743,MY-04,Melaka,MY,Asia
+1744,YE-TA,Taiz Governorate,YE,Asia
+1745,WS-VS,Vaisigano District,WS,Oceania
+1746,NG-AD,Adamawa State,NG,Africa
+1747,BH-15,Muharraq Governorate,BH,Asia
+1748,BT-31,Sarpang District,BT,Asia
+1749,RO-SM,Satu Mare County,RO,Europe
+1750,PY-7,Itapúa Department,PY,South America
+1751,BG-18,Ruse Province,BG,Europe
+1752,BJ-BO,Borgou Department,BJ,Africa
+1753,NG-KN,Kano State,NG,Africa
+1754,AF-KHO,Khost Province,AF,Asia
+1755,KR-41,Gyeonggi-do (Gyeonggi Province),KR,Asia
+1756,SO-TO,Togdheer,SO,Africa
+1757,ET-AA,Addis Ababa,ET,Africa
+1758,UA-32,Kyiv Oblast,UA,Europe
+1759,LR-GK,Grand Kru County,LR,Africa
+1760,IN-CH,Chandigarh,IN,Asia
+1761,TH-67,Phetchabun Province,TH,Asia
+1762,MV-05,Laamu Atoll,MV,Asia
+1763,OM-BU,Al Buraimi Governorate,OM,Asia
+1764,HN-CM,Comayagua Department,HN,North America
+1765,KZ-PAV,Pavlodar Region,KZ,Asia
+1766,AF-BAL,Balkh Province,AF,Asia
+1767,MT-62,Xewkija,MT,Europe
+1768,SK-KI,Košice Region,SK,Europe
+1769,BB-01,Christ Church,BB,North America
+1770,TO-04,Tongatapu,TO,Oceania
+1771,ML-2,Koulikoro Region,ML,Africa
+1772,TD-LO,Logone Occidental,TD,Africa
+1773,KP-09,North Hamgyong Province,KP,Asia
+1774,GE-IM,Imereti,GE,Asia
+1775,PA-3,Colón Province,PA,North America
+1776,LV-062,Mārupe Municipality,LV,Europe
+1777,BF-OUD,Oudalan Province,BF,Africa
+1778,MX-DUR,Durango,MX,North America
+1779,HT-NO,Nord-Ouest Department,HT,North America
+1780,NG-GO,Gombe State,NG,Africa
+1781,BI-KI,Kirundo Province,BI,Africa
+1782,AF-TAK,Takhar Province,AF,Asia
+1783,TL-AT,Atauro,TL,Asia
+1784,LR-MO,Montserrado County,LR,Africa
+1785,GQ-WN,Wele-Nzas Province,GQ,Africa
+1786,TW-HSZ,Hsinchu City,TW,Asia
+1787,LA-AT,Attapu Province,LA,Asia
+1788,SY-HL,Aleppo Governorate,SY,Asia
+1789,RU-ORE,Orenburg Oblast,RU,Europe
+1790,JP-41,Saga Prefecture,JP,Asia
+1791,UZ-AN,Andijan Region,UZ,Asia
+1792,IE-DL,County Donegal,IE,Europe
+1793,JP-16,Toyama Prefecture,JP,Asia
+1794,PL-LD,Łódź Voivodeship,PL,Europe
+1795,CR-H,Heredia Province,CR,North America
+1796,MR-10,Guidimaka Region,MR,Africa
+1797,ME-16,Podgorica Municipality,ME,Europe
+1798,RO-MM,Maramureş County,RO,Europe
+1799,BR-AP,Amapá,BR,South America
+1800,HN-AT,Atlántida Department,HN,North America
+1801,RU-BRY,Bryansk Oblast,RU,Europe
+1802,PA-10,Panamá Oeste Province,PA,North America
+1803,SX-U-A,(unassigned),SX,North America
+1804,TN-52,Monastir Governorate,TN,Africa
+1805,MW-KS,Kasungu District,MW,Africa
+1806,RU-PSK,Pskov Oblast,RU,Europe
+1807,MH-AUR,Aur,MH,Oceania
+1808,MW-LI,Lilongwe District,MW,Africa
+1809,PH-BTC,Butuan City,PH,Asia
+1810,TR-56,Siirt Province,TR,Asia
+1811,KP-08,South Hamgyong Province,KP,Asia
+1812,ID-JT,Jawa Tengah (Central Java),ID,Asia
+1813,EE-37,Harju County,EE,Europe
+1814,EC-25,Santa Elena Province,EC,South America
+1815,UY-MA,Maldonado Department,UY,South America
+1816,ZM-04,Luapula Province,ZM,Africa
+1817,DZ-56,Djanet Province,DZ,Africa
+1818,TH-40,Khon Kaen Province,TH,Asia
+1819,BT-11,Paro District,BT,Asia
+1820,KZ-ZHA,Jambyl Region,KZ,Asia
+1821,EC-G,Guayas Province,EC,South America
+1822,EC-D,Orellana Province,EC,South America
+1823,LY-TB,Tripoli District,LY,Africa
+1824,PH-ROM,Romblon Province,PH,Asia
+1825,IN-DL,Delhi (National Capital Territory),IN,Asia
+1826,IR-30,Alborz Province,IR,Asia
+1827,KY-GC,Grand Cayman,KY,North America
+1828,BF-GOU,Gourma Province,BF,Africa
+1829,UA-05,Vinnytsia Oblast,UA,Europe
+1830,SK-TA,Trnava Region,SK,Europe
+1831,VE-J,Guárico State,VE,South America
+1832,RU-OMS,Omsk Oblast,RU,Europe
+1833,ST-01,Água Grande District,ST,Africa
+1834,VE-L,Mérida State,VE,South America
+1835,CY-02,Nicosia District,CY,Asia
+1836,GR-H,Central Greece,GR,Europe
+1837,NL-ZH,Zuid-Holland,NL,Europe
+1838,TZ-31,Geita,TZ,Africa
+1839,PE-CAJ,Cajamarca Region,PE,South America
+1840,TR-21,Diyarbakır Province,TR,Asia
+1841,SB-CH,Choiseul Province,SB,Oceania
+1842,IR-28,North Khorasan Province,IR,Asia
+1843,MM-02,Bago Region,MM,Asia
+1844,AR-Y,Jujuy Province,AR,South America
+1845,GN-N,Nzérékoré Region,GN,Africa
+1846,MW-NK,Nkhotakota District,MW,Africa
+1847,HR-17,Split-Dalmatia County,HR,Europe
+1848,RO-CT,Constanţa County,RO,Europe
+1849,MX-TAB,Tabasco,MX,North America
+1850,MK-003,Southwestern Statistical Region,MK,Europe
+1851,BF-KOS,Kossi Province,BF,Africa
+1852,RU-BEL,Belgorod Oblast,RU,Europe
+1853,AR-J,San Juan Province,AR,South America
+1854,PE-MOQ,Moquegua Region,PE,South America
+1855,BF-SOR,Sourou Province,BF,Africa
+1856,IO-U-A,(unassigned),IO,Asia
+1857,IQ-DA,Duhok Governorate,IQ,Asia
+1858,UG-C,Central Region,UG,Africa
+1859,TR-38,Kayseri Province,TR,Asia
+1860,GG-G,Guernsey,GG,Europe
+1861,TH-57,Chiang Rai Province,TH,Asia
+1862,EC-Y,Pastaza Province,EC,South America
+1863,GN-K,Kankan Region,GN,Africa
+1864,TT-TUP,Tunapuna-Piarco,TT,North America
+1865,BS-IN,Inagua,BS,North America
+1866,SD-03,Khartoum State,SD,Africa
+1867,MQ-U-A,(unassigned),MQ,North America
+1868,MA-09,Souss-Massa Region,MA,Africa
+1869,ID-BE,Bengkulu,ID,Asia
+1870,SY-DI,Damascus Governorate,SY,Asia
+1871,UA-21,Zakarpattia Oblast,UA,Europe
+1872,PM-ML,Miquelon-Langlade,PM,North America
+1873,TR-24,Erzincan Province,TR,Asia
+1874,UZ-NW,Navoiy Region,UZ,Asia
+1875,PH-CAP,Capiz Province,PH,Asia
+1876,NE-4,Maradi Region,NE,Africa
+1877,TJ-DU,Dushanbe,TJ,Asia
+1878,ID-BA,Bali,ID,Asia
+1879,UZ-XO,Xorazm Region,UZ,Asia
+1880,CD-HU,Haut-Uélé Province,CD,Africa
+1881,BS-WG,West Grand Bahama,BS,North America
+1882,IE-SO,County Sligo,IE,Europe
+1883,MV-23,Haa Dhaalu Atoll,MV,Asia
+1884,BS-SE,South Eleuthera,BS,North America
+1885,SO-NU,Nugal,SO,Africa
+1886,MV-17,Dhaalu Atoll,MV,Asia
+1887,TC-NC,North Caicos,TC,North America
+1888,TH-42,Loei Province,TH,Asia
+1889,MW-BL,Blantyre District,MW,Africa
+1890,DO-25,Santiago de los Caballeros Province,DO,North America
+1891,MR-05,Brakna Region,MR,Africa
+1892,TN-32,Jendouba Governorate,TN,Africa
+1893,ES-MC,Murcia (region),ES,Europe
+1894,RU-ALT,Altai Krai,RU,Europe
+1895,CM-NO,North Region,CM,Africa
+1896,NG-FC,Abuja Capital Territory,NG,Africa
+1897,TH-23,Trat Province,TH,Asia
+1898,UY-TA,Tacuarembo Department,UY,South America
+1899,PE-ANC,Ancash Region,PE,South America
+1900,LR-GG,Grand Gedeh County,LR,Africa
+1901,CU-03,La Habana Province,CU,North America
+1902,SS-EC,Central Equatoria State,SS,Africa
+1903,TR-76,Iğdır Province,TR,Asia
+1904,EC-A,Azuay Province,EC,South America
+1905,JP-39,Kōchi Prefecture,JP,Asia
+1906,TR-26,Eskişehir Province,TR,Asia
+1907,TO-05,Vava'u,TO,Oceania
+1908,FI-11,Pirkanmaa Region,FI,Europe
+1909,TR-36,Kars Province,TR,Asia
+1910,DZ-57,In Salah Province,DZ,Africa
+1911,VE-K,Lara State,VE,South America
+1912,SD-25,Sennar State,SD,Africa
+1913,RU-KK,Republic of Khakassia,RU,Europe
+1914,LA-HO,Houaphan Province,LA,Asia
+1915,TH-30,Nakhon Ratchasima Province,TH,Asia
+1916,IE-D,County Dublin,IE,Europe
+1917,BF-BGR,Bougouriba Province,BF,Africa
+1918,PL-DS,Lower Silesian Voivodeship,PL,Europe
+1919,EG-SHG,Sohag Governorate,EG,Africa
+1920,IR-13,Hamadan Province,IR,Asia
+1921,TH-10,Bangkok (special administrative area),TH,Asia
+1922,LA-XI,Xiangkhoang Province,LA,Asia
+1923,KH-8,Kandal province,KH,Asia
+1924,KZ-JET,Jetisu Region,KZ,Asia
+1925,TH-45,Roi Et Province,TH,Asia
+1926,RU-SVE,Sverdlovsk Oblast,RU,Europe
+1927,AZ-NX,Nakhchivan Autonomous Republic,AZ,Asia
+1928,UY-DU,Durazno Department,UY,South America
+1929,LA-PH,Phongsali Province,LA,Asia
+1930,AT-7,Tyrol,AT,Europe
+1931,TH-47,Sakon Nakhon Province,TH,Asia
+1932,PH-BOH,Bohol Province,PH,Asia
+1933,ET-GA,Gambela Region,ET,Africa
+1934,VE-T,Trujillo State,VE,South America
+1935,CF-VR,Vakaga,CF,Africa
+1936,KH-18,Preah Sihanouk province,KH,Asia
+1937,LY-SH,Wadi Al Shatii District,LY,Africa
+1938,RU-ZAB,Zabaykalsky Krai,RU,Europe
+1939,CH-ZH,Zürich,CH,Europe
+1940,TZ-24,Tabora Region,TZ,Africa
+1941,ID-BB,Bangka Belitung,ID,Asia
+1942,IQ-AN,Al-Anbar Governorate,IQ,Asia
+1943,TD-ME,Mayo-Kebbi Est,TD,Africa
+1944,TN-61,Sfax Governorate,TN,Africa
+1945,RU-SE,Republic of North Ossetia-Alania,RU,Europe
+1946,CO-QUI,Quindio Department,CO,South America
+1947,CU-11,Holguín Province,CU,North America
+1948,SN-FK,Fatick Region,SN,Africa
+1949,MX-MOR,Morelos,MX,North America
+1950,CI-WR,Woroba District,CI,Africa
+1951,EG-MN,Minya Governorate,EG,Africa
+1952,TH-80,Nakhon Si Thammarat Province,TH,Asia
+1953,MH-JAL,Jaluit,MH,Oceania
+1954,KP-10,Ryanggang Province,KP,Asia
+1955,CF-NM,Nana-Mambéré,CF,Africa
+1956,AF-NAN,Nangarhar Province,AF,Asia
+1957,NG-IM,Imo State,NG,Africa
+1958,TW-HUA,Hualien County,TW,Asia
+1959,UA-46,Lviv Oblast,UA,Europe
+1960,TR-30,Hakkâri Province,TR,Asia
+1961,KZ-ALA,Almaty City,KZ,Asia
+1962,GN-C,Conakry Special Zone,GN,Africa
+1963,AO-NAM,Namibe Province,AO,Africa
+1964,BF-HOU,Houet Province,BF,Africa
+1965,MW-KR,Karonga District,MW,Africa
+1966,KR-31,Ulsan-gwangyeoksi (Ulsan Metropolitan City),KR,Asia
+1967,LY-NQ,An Nuqat al Khams District,LY,Africa
+1968,TR-58,Sivas Province,TR,Asia
+1969,MZ-B,Manica Province,MZ,Africa
+1970,JP-21,Gifu Prefecture,JP,Asia
+1971,GQ-CS,Centro Sur Province,GQ,Africa
+1972,AL-02,Durrës County,AL,Europe
+1973,MH-KIL,Kili,MH,Oceania
+1974,JM-08,Saint James Parish,JM,North America
+1975,NG-KW,Kwara State,NG,Africa
+1976,HN-CR,Cortés Department,HN,North America
+1977,TN-72,Tozeur Governorate,TN,Africa
+1978,MN-039,Khentii Province,MN,Asia
+1979,IR-29,South Khorasan Province,IR,Asia
+1980,CM-NW,North-West Region,CM,Africa
+1981,BE-WLG,Liège Province,BE,Europe
+1982,ET-AF,Afar Region,ET,Africa
+1983,TZ-03,Dodoma Region,TZ,Africa
+1984,LR-GB,Grand Basaa County,LR,Africa
+1985,GE-TB,Tbilisi,GE,Asia
+1986,MV-00,Alif Dhaal Atoll,MV,Asia
+1987,RU-AST,Astrakhan Oblast,RU,Europe
+1988,AR-F,La Rioja Province,AR,South America
+1989,DZ-55,Touggourt Province,DZ,Africa
+1990,IE-CE,County Clare,IE,Europe
+1991,DJ-AS,Ali Sabiah Region,DJ,Africa
+1992,TN-83,Tataouine Governorate,TN,Africa
+1993,GH-AA,Greater Accra Region,GH,Africa
+1994,AF-LOW,Logar Province,AF,Asia
+1995,UY-CL,Cerro Largo Department,UY,South America
+1996,LY-NL,Nalut District,LY,Africa
+1997,BF-GNA,Gnagna Province,BF,Africa
+1998,RU-SAM,Samara Oblast,RU,Europe
+1999,UZ-NG,Namangan Region,UZ,Asia
+2000,GT-GU,Guatemala Department,GT,North America
+2001,UZ-SA,Samarqand Region,UZ,Asia
+2002,UA-65,Kherson Oblast,UA,Europe
+2003,WS-TU,Tuamasaga District,WS,Oceania
+2004,BE-VBR,Flemish Brabant Province,BE,Europe
+2005,IT-32,Trentino-Alto Adige,IT,Europe
+2006,BG-02,Burgas Province,BG,Europe
+2007,RO-BH,Bihor County,RO,Europe
+2008,BJ-AQ,Atlantique Department,BJ,Africa
+2009,MS-SP,Saint Peter Parish,MS,North America
+2010,TR-37,Kastamonu Province,TR,Asia
+2011,MH-NMK,Namorik,MH,Oceania
+2012,EE-7B,Tartu County,EE,Europe
+2013,CD-SK,Sud-Kivu Province,CD,Africa
+2014,ID-SR,Sulawesi Barat (West Sulawesi),ID,Asia
+2015,EE-39,Hiiu County,EE,Europe
+2016,VE-Z,Amazonas State,VE,South America
+2017,PY-12,Ñeembucú Department,PY,South America
+2018,PG-NCD,National Capital District (Port Moresby),PG,Oceania
+2019,RU-MOW,Moscow (city),RU,Europe
+2020,KZ-ALM,Almaty Region,KZ,Asia
+2021,TH-41,Udon Thani Province,TH,Asia
+2022,BQ-SE,Sint Eustatius,BQ,North America
+2023,KE-900,Western Province,KE,Africa
+2024,PE-PUN,Puno Region,PE,South America
+2025,MC-U-A,(unassigned),MC,Europe
+2026,JP-36,Tokushima Prefecture,JP,Asia
+2027,DM-02,Saint Andrew Parish,DM,North America
+2028,CZ-PA,Pardubice Region,CZ,Europe
+2029,AE-RK,Ras al-Khaimah Emirate,AE,Asia
+2030,BS-AK,Acklins,BS,North America
+2031,IT-55,Umbria,IT,Europe
+2032,PH-ZMC,Zamboanga City,PH,Asia
+2033,EC-X,Cotopaxi Province,EC,South America
+2034,IR-19,Zanjan Province,IR,Asia
+2035,GN-L,Labé Region,GN,Africa
+2036,UA-U-A,(unassigned),UA,Europe
+2037,EC-P,Pichincha Province,EC,South America
+2038,AT-6,Styria,AT,Europe
+2039,TR-31,Hatay Province,TR,Asia
+2040,AR-C,Buenos Aires (Autonomous City),AR,South America
+2041,DZ-08,Béchar Province,DZ,Africa
+2042,TR-27,Gaziantep Province,TR,Asia
+2043,BZ-TOL,Toledo District,BZ,North America
+2044,BS-NP,New Providence,BS,North America
+2045,NE-5,Tahoua Region,NE,Africa
+2046,RO-MS,Mureş County,RO,Europe
+2047,MW-RU,Rumphi District,MW,Africa
+2048,NG-EN,Enugu State,NG,Africa
+2049,ES-CE,Ceuta (city),ES,Europe
+2050,PH-ISA,Isabela Province,PH,Asia
+2051,JP-45,Miyazaki Prefecture,JP,Asia
+2052,LT-SA,Šiauliai County,LT,Europe
+2053,MX-ZAC,Zacatecas,MX,North America
+2054,TH-64,Sukhothai Province,TH,Asia
+2055,MN-059,Dundgovi Province,MN,Asia
+2056,MN-067,Bulgan Province,MN,Asia
+2057,KR-43,Chungcheongbuk-do (North Chungcheong Province),KR,Asia
+2058,NI-SJ,Río San Juan Department,NI,North America
+2059,KZ-ZAP,West Kazakhstan Region,KZ,Asia
+2060,CI-LC,Lacs District,CI,Africa
+2061,TZ-08,Xigoma Region,TZ,Africa
+2062,DO-04,Barahona Province,DO,North America
+2063,UM-79,Wake Island,UM,Oceania
+2064,AW-U-A,(unassigned),AW,North America
+2065,RU-SMO,Smolensk Oblast,RU,Europe
+2066,FI-07,Central Ostrobothnia Region,FI,Europe
+2067,DZ-54,Timimoun Province,DZ,Africa
+2068,PH-DVO,Davao City,PH,Asia
+2069,EG-PTS,Port Said Governorate,EG,Africa
+2070,CF-OP,Ouham-Pendé,CF,Africa
+2071,TH-21,Rayong Province,TH,Asia
+2072,PA-7,Los Santos Province,PA,North America
+2073,SE-U,Västmanlanda län,SE,Europe
+2074,PL-SL,Silesian Voivodeship,PL,Europe
+2075,IE-WD,County Waterford,IE,Europe
+2076,DZ-52,Bordj Baji Mokhtar Province,DZ,Africa
+2077,PL-LB,Lubusz Voivodeship,PL,Europe
+2078,BF-SIS,Sissili Province,BF,Africa
+2079,PE-TUM,Tumbes Region,PE,South America
+2080,IN-GA,Goa,IN,Asia
+2081,KZ-YUZ,South Kazakhstan Region,KZ,Asia
+2082,UA-07,Volyn Oblast,UA,Europe
+2083,IQ-BA,Basra Governorate,IQ,Asia
+2084,LT-VL,Vilnius County,LT,Europe
+2085,UY-CO,Colonia Department,UY,South America
+2086,IT-57,Marche,IT,Europe
+2087,AZ-YE,Yevlax (city),AZ,Asia
+2088,CF-MP,Ombella-M'Poko,CF,Africa
+2089,BJ-CO,Collines Department,BJ,Africa
+2090,GW-BL,Bolama Region,GW,Africa
+2091,BW-FR,Francistown (city),BW,Africa
+2092,DZ-29,Mascara Province,DZ,Africa
+2093,EG-LX,Luxor Governorate,EG,Africa
+2094,PH-NSA,Northern Samar Province,PH,Asia
+2095,UA-71,Cherkasy Oblast,UA,Europe
+2096,PH-ZAS,Zamboanga del Sur Province,PH,Asia
+2097,LY-MI,Misurata District,LY,Africa
+2098,PW-004,Airai,PW,Oceania

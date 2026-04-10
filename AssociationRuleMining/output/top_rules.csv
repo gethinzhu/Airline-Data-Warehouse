@@ -1,0 +1,6 @@
+﻿rank,antecedent,rhs,support_count,antecedent_count,support,confidence,lift
+1,continent_name=Europe AND navaid_count_bucket=2-3 AND scheduled_service=yes,Delayed,1029,2811,0.010434,0.366062,1.099591
+2,continent_name=Europe AND navaid_count_bucket=2-3,Delayed,1215,3340,0.012320,0.363772,1.092713
+3,airport_type=medium_airport AND continent_name=North America AND quarter=Q4,Cancelled,1030,2893,0.010444,0.356032,1.065858
+4,airport_type=medium_airport AND quarter=Q3 AND scheduled_service=no,On Time,1186,3346,0.012026,0.354453,1.064233
+5,airport_type=medium_airport AND continent_name=North America AND navaid_count_bucket=1,Cancelled,1425,4014,0.014450,0.355007,1.062792

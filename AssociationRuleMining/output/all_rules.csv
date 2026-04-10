@@ -1,0 +1,150 @@
+﻿rank,antecedent,rhs,support_count,antecedent_count,support,confidence,lift
+1,continent_name=Europe AND navaid_count_bucket=2-3 AND scheduled_service=yes,Delayed,1029,2811,0.010434,0.366062,1.099591
+2,continent_name=Europe AND navaid_count_bucket=2-3,Delayed,1215,3340,0.012320,0.363772,1.092713
+3,airport_type=medium_airport AND continent_name=North America AND quarter=Q4,Cancelled,1030,2893,0.010444,0.356032,1.065858
+4,airport_type=medium_airport AND quarter=Q3 AND scheduled_service=no,On Time,1186,3346,0.012026,0.354453,1.064233
+5,airport_type=medium_airport AND continent_name=North America AND navaid_count_bucket=1,Cancelled,1425,4014,0.014450,0.355007,1.062792
+6,airport_type=large_airport AND continent_name=Europe AND scheduled_service=yes,Delayed,1077,3061,0.010921,0.351846,1.056888
+7,age_group=46-60 AND quarter=Q1,On Time,1483,4220,0.015038,0.351422,1.055132
+8,airport_type=small_airport AND navaid_count_bucket=1 AND scheduled_service=no,On Time,1020,2904,0.010343,0.351240,1.054585
+9,continent_name=Asia AND navaid_count_bucket=1,On Time,1494,4254,0.015149,0.351199,1.054463
+10,airport_type=large_airport AND continent_name=Europe,Delayed,1085,3091,0.011002,0.351019,1.054404
+11,airport_type=large_airport AND quarter=Q4,Cancelled,1178,3346,0.011945,0.352062,1.053974
+12,airport_type=large_airport AND quarter=Q4 AND scheduled_service=yes,Cancelled,1161,3299,0.011773,0.351925,1.053563
+13,age_group=60+ AND continent_name=North America AND scheduled_service=yes,Cancelled,1537,4377,0.015585,0.351154,1.051255
+14,age_group=60+ AND navaid_count_bucket=1 AND scheduled_service=no,On Time,1003,2868,0.010170,0.349721,1.050026
+15,airport_type=medium_airport AND navaid_count_bucket=1 AND quarter=Q4,Cancelled,1133,3235,0.011489,0.350232,1.048495
+16,airport_type=medium_airport AND quarter=Q4 AND scheduled_service=no,Cancelled,1163,3322,0.011793,0.350090,1.048071
+17,airport_type=medium_airport AND continent_name=Europe AND scheduled_service=yes,Delayed,1200,3441,0.012168,0.348736,1.047546
+18,continent_name=Asia AND navaid_count_bucket=1 AND scheduled_service=yes,On Time,1016,2914,0.010302,0.348662,1.046845
+19,continent_name=Oceania AND quarter=Q3,On Time,1252,3591,0.012695,0.348649,1.046808
+20,continent_name=North America AND navaid_count_bucket=1 AND scheduled_service=yes,Cancelled,1398,4009,0.014176,0.348715,1.043955
+21,airport_type=medium_airport AND navaid_count_bucket=1 AND quarter=Q2,Delayed,1121,3230,0.011367,0.347059,1.042508
+22,continent_name=South America AND navaid_count_bucket=0 AND scheduled_service=no,Cancelled,1406,4041,0.014257,0.347934,1.041615
+23,airport_type=large_airport AND quarter=Q3 AND scheduled_service=yes,Cancelled,1143,3288,0.011590,0.347628,1.040699
+24,navaid_count_bucket=2-3 AND quarter=Q2 AND scheduled_service=yes,Cancelled,1236,3556,0.012533,0.347582,1.040561
+25,age_group=60+ AND airport_type=small_airport AND quarter=Q3,Delayed,1278,3690,0.012959,0.346341,1.040354
+26,airport_type=medium_airport AND continent_name=North America AND quarter=Q3,On Time,1001,2890,0.010150,0.346367,1.039955
+27,continent_name=North America AND navaid_count_bucket=1,Cancelled,2345,6753,0.023778,0.347253,1.039577
+28,age_group=60+ AND airport_type=medium_airport AND quarter=Q4,Cancelled,1018,2933,0.010323,0.347085,1.039074
+29,airport_type=medium_airport AND quarter=Q2 AND scheduled_service=yes,Delayed,1821,5266,0.018465,0.345803,1.038737
+30,airport_type=medium_airport AND navaid_count_bucket=0 AND quarter=Q3,On Time,995,2877,0.010089,0.345846,1.038392
+31,continent_name=North America AND quarter=Q3 AND scheduled_service=yes,Cancelled,1135,3273,0.011509,0.346777,1.038151
+32,age_group=36-45 AND airport_type=medium_airport,On Time,1312,3795,0.013304,0.345718,1.038007
+33,age_group=0-17 AND quarter=Q1,Delayed,1603,4644,0.016254,0.345177,1.036854
+34,airport_type=large_airport AND quarter=Q3,Cancelled,1156,3339,0.011722,0.346211,1.036459
+35,navaid_count_bucket=1 AND quarter=Q2 AND scheduled_service=yes,Delayed,1124,3258,0.011397,0.344997,1.036315
+36,age_group=60+ AND quarter=Q3 AND scheduled_service=yes,Delayed,1292,3745,0.013101,0.344993,1.036304
+37,continent_name=Europe AND scheduled_service=yes,Delayed,2581,7485,0.026171,0.344823,1.035792
+38,airport_type=small_airport AND navaid_count_bucket=1,On Time,1656,4801,0.016792,0.344928,1.035635
+39,navaid_count_bucket=2-3 AND quarter=Q4,Cancelled,1541,4455,0.015626,0.345903,1.035537
+40,airport_type=small_airport AND continent_name=Asia AND scheduled_service=no,Cancelled,1342,3882,0.013608,0.345698,1.034922
+41,navaid_count_bucket=0 AND quarter=Q3 AND scheduled_service=yes,Cancelled,1304,3774,0.013223,0.345522,1.034395
+42,airport_type=medium_airport AND continent_name=Asia,On Time,2708,7861,0.027459,0.344485,1.034306
+43,navaid_count_bucket=0 AND quarter=Q4 AND scheduled_service=yes,On Time,1262,3664,0.012797,0.344432,1.034146
+44,airport_type=small_airport AND continent_name=South America AND navaid_count_bucket=0,Cancelled,1413,4091,0.014328,0.345392,1.034007
+45,airport_type=large_airport AND continent_name=North America AND scheduled_service=yes,Cancelled,1118,3237,0.011337,0.345382,1.033974
+46,airport_type=medium_airport AND navaid_count_bucket=0 AND scheduled_service=no,On Time,1712,4973,0.017360,0.344259,1.033626
+47,navaid_count_bucket=2-3 AND quarter=Q2,Cancelled,1536,4450,0.015575,0.345169,1.033337
+48,age_group=46-60 AND quarter=Q4,Delayed,1378,4006,0.013973,0.343984,1.033272
+49,age_group=60+ AND airport_type=small_airport AND quarter=Q1,On Time,1237,3595,0.012543,0.344089,1.033116
+50,airport_type=medium_airport AND quarter=Q2,Delayed,2959,8606,0.030004,0.343830,1.032809
+51,continent_name=Asia AND navaid_count_bucket=0 AND scheduled_service=yes,Delayed,1398,4067,0.014176,0.343742,1.032546
+52,age_group=60+ AND airport_type=medium_airport AND scheduled_service=no,On Time,1507,4383,0.015281,0.343828,1.032333
+53,age_group=26-35 AND airport_type=small_airport AND navaid_count_bucket=0,Cancelled,1403,4069,0.014226,0.344802,1.032240
+54,age_group=36-45 AND continent_name=North America,On Time,1229,3575,0.012462,0.343776,1.032176
+55,airport_type=large_airport AND continent_name=North America,Cancelled,1121,3254,0.011367,0.344499,1.031332
+56,airport_type=medium_airport AND quarter=Q1 AND scheduled_service=no,Delayed,1112,3239,0.011276,0.343316,1.031265
+57,age_group=18-25 AND airport_type=medium_airport,Cancelled,1058,3072,0.010728,0.344401,1.031039
+58,age_group=26-35 AND airport_type=small_airport,Cancelled,1621,4707,0.016437,0.344381,1.030978
+59,airport_type=small_airport AND continent_name=South America AND scheduled_service=no,Cancelled,1443,4192,0.014632,0.344227,1.030518
+60,navaid_count_bucket=2-3 AND quarter=Q1,Delayed,1528,4455,0.015494,0.342985,1.030273
+61,airport_type=medium_airport AND continent_name=North America AND navaid_count_bucket=0,Delayed,1370,3996,0.013892,0.342843,1.029844
+62,continent_name=Asia AND navaid_count_bucket=0 AND scheduled_service=no,Cancelled,1414,4111,0.014338,0.343955,1.029704
+63,continent_name=South America AND scheduled_service=no,Cancelled,1955,5684,0.019824,0.343948,1.029682
+64,continent_name=Europe AND quarter=Q4,Delayed,1089,3177,0.011042,0.342776,1.029644
+65,age_group=60+ AND quarter=Q4 AND scheduled_service=no,Cancelled,1377,4004,0.013963,0.343906,1.029557
+66,airport_type=medium_airport AND continent_name=Asia AND scheduled_service=yes,On Time,2073,6046,0.021020,0.342871,1.029459
+67,age_group=0-17 AND navaid_count_bucket=0 AND scheduled_service=no,On Time,2421,7062,0.024549,0.342821,1.029308
+68,age_group=60+ AND airport_type=medium_airport AND continent_name=North America,Cancelled,1295,3767,0.013131,0.343775,1.029164
+69,age_group=60+ AND continent_name=Asia AND scheduled_service=yes,On Time,1300,3793,0.013182,0.342737,1.029055
+70,airport_type=large_airport AND quarter=Q2,Cancelled,1143,3327,0.011590,0.343553,1.028499
+71,age_group=60+ AND navaid_count_bucket=1 AND scheduled_service=yes,Delayed,1424,4159,0.014439,0.342390,1.028484
+72,age_group=18-25 AND airport_type=small_airport,On Time,1315,3839,0.013334,0.342537,1.028456
+73,airport_type=large_airport AND navaid_count_bucket=1 AND scheduled_service=yes,Cancelled,1195,3480,0.012117,0.343391,1.028015
+74,age_group=46-60 AND navaid_count_bucket=2-3,Cancelled,1038,3023,0.010525,0.343368,1.027945
+75,continent_name=Europe AND scheduled_service=no,On Time,1271,3713,0.012888,0.342311,1.027777
+76,age_group=0-17 AND quarter=Q3,On Time,1578,4610,0.016001,0.342299,1.027742
+77,airport_type=small_airport AND continent_name=Asia AND navaid_count_bucket=0,Cancelled,1456,4242,0.014764,0.343234,1.027546
+78,continent_name=Oceania AND quarter=Q4,Delayed,1162,3397,0.011783,0.342067,1.027512
+79,age_group=60+ AND navaid_count_bucket=1 AND scheduled_service=yes,Cancelled,1427,4159,0.014470,0.343111,1.027178
+80,continent_name=North America AND quarter=Q1 AND scheduled_service=yes,On Time,1134,3315,0.011499,0.342081,1.027088
+81,continent_name=North America AND quarter=Q2 AND scheduled_service=no,Delayed,1510,4417,0.015311,0.341861,1.026895
+82,airport_type=medium_airport AND continent_name=Europe,Delayed,1942,5681,0.019692,0.341841,1.026836
+83,age_group=26-35 AND continent_name=North America,Delayed,1212,3546,0.012290,0.341794,1.026692
+84,airport_type=large_airport AND scheduled_service=yes,Cancelled,4488,13089,0.045508,0.342883,1.026495
+85,age_group=0-17 AND navaid_count_bucket=1,Cancelled,1408,4107,0.014277,0.342829,1.026334
+86,age_group=60+ AND continent_name=Oceania AND navaid_count_bucket=0,Delayed,1161,3398,0.011773,0.341672,1.026326
+87,age_group=36-45 AND scheduled_service=yes,Delayed,1616,4730,0.016386,0.341649,1.026258
+88,age_group=60+ AND airport_type=large_airport,Cancelled,1526,4452,0.015474,0.342767,1.026148
+89,airport_type=large_airport AND quarter=Q1 AND scheduled_service=yes,On Time,1098,3213,0.011134,0.341737,1.026053
+90,age_group=0-17 AND scheduled_service=no,On Time,3176,9295,0.032205,0.341689,1.025910
+91,airport_type=large_airport AND quarter=Q2 AND scheduled_service=yes,Cancelled,1127,3289,0.011428,0.342657,1.025819
+92,age_group=0-17 AND airport_type=small_airport AND scheduled_service=no,On Time,2244,6569,0.022754,0.341605,1.025656
+93,airport_type=large_airport,Cancelled,4548,13276,0.046117,0.342573,1.025567
+94,age_group=60+ AND airport_type=large_airport AND scheduled_service=yes,Cancelled,1502,4385,0.015230,0.342531,1.025442
+95,age_group=18-25 AND airport_type=small_airport AND navaid_count_bucket=0,On Time,1139,3335,0.011549,0.341529,1.025430
+96,quarter=Q3 AND scheduled_service=no,On Time,4308,12622,0.043683,0.341309,1.024768
+97,airport_type=large_airport AND quarter=Q1,On Time,1114,3264,0.011296,0.341299,1.024739
+98,age_group=60+ AND continent_name=Asia AND navaid_count_bucket=0,Delayed,1020,2990,0.010343,0.341137,1.024721
+99,navaid_count_bucket=2-3 AND scheduled_service=no,Delayed,1166,3418,0.011823,0.341135,1.024715
+100,quarter=Q3 AND scheduled_service=yes,Cancelled,3773,11023,0.038258,0.342284,1.024702
+101,age_group=0-17 AND navaid_count_bucket=2-3,Delayed,1141,3346,0.011570,0.341004,1.024321
+102,airport_type=medium_airport AND quarter=Q1,Delayed,2908,8528,0.029487,0.340994,1.024292
+103,age_group=0-17 AND quarter=Q4,On Time,1609,4718,0.016315,0.341034,1.023944
+104,continent_name=Europe AND quarter=Q1,Delayed,1075,3155,0.010901,0.340729,1.023495
+105,airport_type=medium_airport AND quarter=Q2 AND scheduled_service=no,Delayed,1138,3340,0.011539,0.340719,1.023463
+106,age_group=0-17 AND scheduled_service=yes,Cancelled,2810,8220,0.028493,0.341849,1.023399
+107,continent_name=Asia AND quarter=Q3 AND scheduled_service=yes,Cancelled,1004,2937,0.010181,0.341845,1.023388
+108,navaid_count_bucket=0 AND quarter=Q4 AND scheduled_service=yes,Delayed,1248,3664,0.012655,0.340611,1.023141
+109,airport_type=large_airport AND navaid_count_bucket=1,Cancelled,1230,3599,0.012472,0.341762,1.023137
+110,navaid_count_bucket=2-3 AND quarter=Q4 AND scheduled_service=yes,Cancelled,1235,3614,0.012523,0.341727,1.023033
+111,navaid_count_bucket=1 AND scheduled_service=no,On Time,2877,8444,0.029173,0.340715,1.022986
+112,age_group=18-25 AND scheduled_service=yes,On Time,1327,3895,0.013456,0.340693,1.022920
+113,airport_type=medium_airport AND quarter=Q3,On Time,2975,8733,0.030167,0.340662,1.022826
+114,airport_type=small_airport AND quarter=Q4,Delayed,3554,10438,0.036038,0.340487,1.022767
+115,age_group=60+ AND navaid_count_bucket=0 AND quarter=Q2,Delayed,1640,4817,0.016630,0.340461,1.022689
+116,airport_type=small_airport AND quarter=Q4 AND scheduled_service=no,Delayed,2867,8421,0.029071,0.340458,1.022682
+117,navaid_count_bucket=1 AND quarter=Q4 AND scheduled_service=yes,Cancelled,1100,3221,0.011154,0.341509,1.022381
+118,airport_type=large_airport AND continent_name=North America,On Time,1108,3254,0.011235,0.340504,1.022352
+119,airport_type=small_airport AND navaid_count_bucket=0 AND quarter=Q4,Delayed,3089,9078,0.031323,0.340273,1.022125
+120,airport_type=medium_airport AND continent_name=South America,Delayed,1226,3603,0.012432,0.340272,1.022122
+121,age_group=36-45 AND airport_type=small_airport,Delayed,1628,4785,0.016508,0.340230,1.021995
+122,airport_type=small_airport AND continent_name=South America,Cancelled,1669,4889,0.016924,0.341379,1.021991
+123,airport_type=small_airport AND quarter=Q2 AND scheduled_service=no,Cancelled,2957,8662,0.029984,0.341376,1.021983
+124,navaid_count_bucket=2-3 AND quarter=Q1 AND scheduled_service=yes,Delayed,1223,3595,0.012401,0.340195,1.021890
+125,airport_type=large_airport AND continent_name=Asia,Cancelled,1295,3794,0.013131,0.341328,1.021840
+126,continent_name=Asia AND quarter=Q3,On Time,1557,4575,0.015788,0.340328,1.021823
+127,age_group=0-17 AND continent_name=North America,Cancelled,2058,6030,0.020868,0.341294,1.021736
+128,age_group=60+ AND quarter=Q3,Delayed,2879,8465,0.029193,0.340106,1.021624
+129,continent_name=Europe,Delayed,4357,12811,0.044180,0.340098,1.021600
+130,age_group=60+ AND airport_type=medium_airport AND continent_name=North America,Delayed,1281,3767,0.012989,0.340058,1.021480
+131,age_group=60+ AND airport_type=small_airport AND quarter=Q4,Delayed,1167,3432,0.011833,0.340035,1.021410
+132,age_group=36-45 AND scheduled_service=yes,On Time,1609,4730,0.016315,0.340169,1.021346
+133,airport_type=large_airport AND continent_name=Asia AND scheduled_service=yes,Cancelled,1268,3717,0.012858,0.341135,1.021262
+134,airport_type=large_airport AND continent_name=North America AND scheduled_service=yes,On Time,1101,3237,0.011164,0.340130,1.021228
+135,navaid_count_bucket=0 AND quarter=Q3 AND scheduled_service=no,On Time,3273,9623,0.033188,0.340123,1.021207
+136,age_group=60+ AND navaid_count_bucket=0 AND quarter=Q1,On Time,1606,4722,0.016285,0.340110,1.021169
+137,airport_type=medium_airport AND navaid_count_bucket=1 AND quarter=Q3,On Time,1072,3152,0.010870,0.340102,1.021143
+138,continent_name=Asia AND scheduled_service=no,Cancelled,2039,5979,0.020676,0.341027,1.020938
+139,age_group=46-60 AND quarter=Q2,Cancelled,1414,4147,0.014338,0.340969,1.020766
+140,airport_type=medium_airport AND navaid_count_bucket=1 AND scheduled_service=no,Cancelled,1823,5347,0.018485,0.340939,1.020674
+141,continent_name=Europe AND quarter=Q4,Cancelled,1083,3177,0.010982,0.340888,1.020521
+142,age_group=60+ AND quarter=Q4,Cancelled,2753,8076,0.027916,0.340887,1.020518
+143,airport_type=small_airport AND continent_name=Asia,Cancelled,1843,5407,0.018688,0.340854,1.020421
+144,age_group=46-60 AND quarter=Q3,Cancelled,1444,4238,0.014642,0.340727,1.020039
+145,airport_type=medium_airport AND quarter=Q3 AND scheduled_service=yes,Cancelled,1835,5387,0.018607,0.340635,1.019764
+146,age_group=46-60 AND navaid_count_bucket=1,Cancelled,1206,3541,0.012229,0.340582,1.019605
+147,airport_type=large_airport AND navaid_count_bucket=2-3,Cancelled,2254,6627,0.022856,0.340124,1.018234
+148,continent_name=South America,Cancelled,3651,10737,0.037021,0.340039,1.017981
+149,airport_type=small_airport AND quarter=Q2,Cancelled,3614,10629,0.036646,0.340013,1.017903

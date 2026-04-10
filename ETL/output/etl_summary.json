@@ -1,0 +1,33 @@
+{
+  "main_dataset_rows_raw": 98619,
+  "main_dataset_rows_after_cleaning": 98619,
+  "main_dataset_rows_dropped": 0,
+  "raw_row_counts": {
+    "airline": 98619,
+    "airports": 84536,
+    "countries": 249,
+    "regions": 3942,
+    "navaids": 11010
+  },
+  "join_stats": {
+    "airport_iata_matches": 92807,
+    "airport_iata_unmatched": 5812,
+    "region_matches": 92807,
+    "country_matches": 98619,
+    "rows_with_navaid_profile": 40965
+  },
+  "navaids": {
+    "rows_with_associated_airport": 7375,
+    "rows_without_associated_airport": 3635,
+    "airport_profiles_created": 4562
+  },
+  "output_files": {
+    "staging_dir": "C:\\Users\\86180\\Desktop\\DataWarehouse\\Project1\\ETL\\output\\staging",
+    "warehouse_dir": "C:\\Users\\86180\\Desktop\\DataWarehouse\\Project1\\ETL\\output\\warehouse"
+  },
+  "arrival_airport_treatment": {
+    "chosen_strategy": "rename",
+    "new_column_name": "departure_airport_code",
+    "reason": "The project brief identifies 'Arrival Airport' as an ETL transformation error. It stores the IATA code of the same airport recorded in 'Airport Name', so it is retained only as the departure airport code."
+  }
+}

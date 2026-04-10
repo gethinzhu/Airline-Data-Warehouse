@@ -1,0 +1,5 @@
+﻿flight_status_key,flight_status
+0,Unknown
+1,On Time
+2,Delayed
+3,Cancelled
