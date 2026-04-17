@@ -1,4 +1,4 @@
-# Association Rule Mining Summary
+﻿# Association Rule Mining Summary
 
 ## Algorithm
 
